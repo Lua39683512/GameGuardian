@@ -1,0 +1,1 @@
+io.open(gg.getFile().."a","w"):write(string.dump(load(io.open(gg.prompt({"选择脚本"},{gg.getFile()},{"file"})[1],"r"):read("*a")),true,true))
