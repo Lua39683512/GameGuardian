@@ -1,0 +1,1138 @@
+En_sea = {}
+
+Sea2019 = {}charbase = {}
+
+for _FORV_3_ = 0, 255 do
+  
+  charbase[_FORV_3_] = string.char(_FORV_3_)
+  
+end
+
+Sea2019.error = ""
+
+Sea2019.error = Sea2019.error .. charbase[232]
+
+Sea2019.error = Sea2019.error .. charbase[132]
+
+Sea2019.error = Sea2019.error .. charbase[154]
+
+Sea2019.error = Sea2019.error .. charbase[230]
+
+Sea2019.error = Sea2019.error .. charbase[156]
+
+Sea2019.error = Sea2019.error .. charbase[172]
+
+Sea2019.error = Sea2019.error .. charbase[229]
+
+Sea2019.error = Sea2019.error .. charbase[138]
+
+Sea2019.error = Sea2019.error .. charbase[160]
+
+Sea2019.error = Sea2019.error .. charbase[232]
+
+Sea2019.error = Sea2019.error .. charbase[189]
+
+Sea2019.error = Sea2019.error .. charbase[189]
+
+Sea2019.error = Sea2019.error .. charbase[229]
+
+Sea2019.error = Sea2019.error .. charbase[135]
+
+Sea2019.error = Sea2019.error .. charbase[186]
+
+Sea2019.error = Sea2019.error .. charbase[231]
+
+Sea2019.error = Sea2019.error .. charbase[142]
+
+Sea2019.error = Sea2019.error .. charbase[176]
+
+Sea2019.error = Sea2019.error .. charbase[231]
+
+Sea2019.error = Sea2019.error .. charbase[130]
+
+Sea2019.error = Sea2019.error .. charbase[185]
+
+Sea2019.error = Sea2019.error .. charbase[229]
+
+Sea2019.error = Sea2019.error .. charbase[176]
+
+Sea2019.error = Sea2019.error .. charbase[143]
+
+Sea2019.error = Sea2019.error .. charbase[233]
+
+Sea2019.error = Sea2019.error .. charbase[148]
+
+Sea2019.error = Sea2019.error .. charbase[153]
+
+Sea2019.error = Sea2019.error .. charbase[232]
+
+Sea2019.error = Sea2019.error .. charbase[175]
+
+Sea2019.error = Sea2019.error .. charbase[175]
+
+Sea2019.error = Sea2019.error .. charbase[239]
+
+Sea2019.error = Sea2019.error .. charbase[188]
+
+Sea2019.error = Sea2019.error .. charbase[129]
+Sea2019.a = ""
+
+Sea2019.a = Sea2019.a .. charbase[108]
+
+Sea2019.a = Sea2019.a .. charbase[105]
+
+Sea2019.a = Sea2019.a .. charbase[110]
+
+Sea2019.a = Sea2019.a .. charbase[101]
+
+Sea2019.a = Sea2019.a .. charbase[100]
+
+Sea2019.a = Sea2019.a .. charbase[101]
+
+Sea2019.a = Sea2019.a .. charbase[102]
+
+Sea2019.a = Sea2019.a .. charbase[105]
+
+Sea2019.a = Sea2019.a .. charbase[110]
+
+Sea2019.a = Sea2019.a .. charbase[101]
+
+Sea2019.a = Sea2019.a .. charbase[100]
+Sea2019.b = ""
+
+Sea2019.b = Sea2019.b .. charbase[108]
+
+Sea2019.b = Sea2019.b .. charbase[97]
+
+Sea2019.b = Sea2019.b .. charbase[115]
+
+Sea2019.b = Sea2019.b .. charbase[116]
+
+Sea2019.b = Sea2019.b .. charbase[108]
+
+Sea2019.b = Sea2019.b .. charbase[105]
+
+Sea2019.b = Sea2019.b .. charbase[110]
+
+Sea2019.b = Sea2019.b .. charbase[101]
+
+Sea2019.b = Sea2019.b .. charbase[100]
+
+Sea2019.b = Sea2019.b .. charbase[101]
+
+Sea2019.b = Sea2019.b .. charbase[102]
+
+Sea2019.b = Sea2019.b .. charbase[105]
+
+Sea2019.b = Sea2019.b .. charbase[110]
+
+Sea2019.b = Sea2019.b .. charbase[101]
+
+Sea2019.b = Sea2019.b .. charbase[100]
+Run_De = debug.getinfo
+
+The_En = ""
+
+The_En = The_En .. charbase[69]
+
+The_En = The_En .. charbase[110]
+
+The_En = The_En .. charbase[98]
+
+The_En = The_En .. charbase[121]
+
+The_En = The_En .. charbase[83]
+
+The_En = The_En .. charbase[101]
+
+The_En = The_En .. charbase[97]
+
+The_En = The_En .. charbase[49]
+
+The_En = The_En .. charbase[46]
+
+The_En = The_En .. charbase[53]
+FSRBIT, FSRBIV = 0, 0
+
+function Seamain()
+  FSRBIT = 18713
+  FSRBIV = 10405
+  if nil then
+    function _De5(A0_0)
+      b = {}
+      b[1] = 84
+      b[2] = 45
+      b[3] = 105
+      b[4] = 99
+      b[5] = 112
+      b[6] = 52
+      b[7] = 45
+      b[8] = 68
+      b[9] = 44
+      b[10] = 77
+      
+      
+      
+      c = {}
+      c[1] = -51
+      c[2] = -42
+      c[3] = -41
+      c[4] = -91
+      c[5] = -100
+      c[6] = -80
+      c[7] = -111
+      c[8] = -91
+      c[9] = -105
+      c[10] = -60
+      
+      d = {}
+      d[1] = 807
+      _rG5016___ = _rG5016___ or Sea2019.c(A0_0, En_sea.c(_rG5016___, c), d)
+      
+      
+      return _rG5016___
+    end      end
+  _ = _
+  _ = _
+  
+  
+  
+  
+  _ = _
+  _ = _
+  
+  En_sea.Gr = {}
+  
+  _ = _
+  
+  
+  _ = _
+  _ = _
+  
+  _ = _
+  _ = _
+  
+  
+  
+  
+  Searr, mapsum, Mmicode = {}, 0, {}
+  
+  _ = _
+  
+  
+  _ = _
+  
+  function Sea2019.c(A0_1, A1_2, A2_3, A3_4)
+
+    vv = A0_1[1]
+    vvv = ""
+    
+    sear = 0
+        mxisea = #A0_1 % 2
+    
+    keystrarr = {
+      A1_2:byte(0, -1)
+    }
+    brr = {
+      A0_1[1]
+    }
+    
+    
+    counta1 = 0
+
+    for _FORV_7_ = 2, #A0_1 do
+      
+  
+      
+      if 2 > counta1 then
+        counta1 = #Mmicode
+      else
+        counta1 = counta1 - 1
+      end
+      
+  
+      
+  
+  
+      
+      
+      brr[A2_3[_FORV_7_ - 1] - Mmicode[counta1] + 1] = A0_1[_FORV_7_]
+      
+  
+      
+    end
+    if #A0_1 ~= #brr then
+      gg.alert(Sea2019.error)
+      while gg do
+        os.exit()
+      end
+    end
+        for _FORV_7_ = 2, #A0_1 do
+      
+  
+  
+      
+      sear = sear == #Searr and 1 or sear + 1
+      
+  
+  
+      
+      
+  
+      
+      if sear == 0 then
+        sear = 1
+      end
+      
+  
+      
+      if mxisea ~= 0 then
+                
+        vbc = brr[_FORV_7_] + vv - keystrarr[_FORV_7_ - 1] - A3_4
+        
+    
+        
+      else
+                
+        vbc = brr[_FORV_7_] - vv + keystrarr[_FORV_7_ - 1] + A3_4
+                
+      end
+      
+  
+  
+      
+      cagr = charbase[vbc - Searr[sear]]
+      
+  
+  
+      
+      
+  
+  
+      
+      if not cagr then
+        gg.alert(Sea2019.error)
+        while gg do
+          os.exit()
+        end
+      end
+      
+  
+  
+      
+  
+  
+      
+      
+      
+      vvv = vvv .. cagr
+      
+  
+  
+      
+    end
+    do return vvv end
+    return
+  end
+  
+  function En_sea.c(A0_5, A1_6)
+    local L2_7
+    L2_7 = _
+    _ = L2_7
+    L2_7 = _
+    _ = L2_7
+    L2_7 = _X
+    _X = L2_7
+    L2_7 = _X
+    _X = L2_7
+    L2_7 = {}
+    res = string.char()
+    brr = L2_7
+    L2_7 = _X
+    _X = L2_7
+    L2_7 = _
+    _ = L2_7
+    L2_7 = _
+    _ = L2_7
+    L2_7 = _X
+    _X = L2_7
+    counta1 = 0
+    L2_7 = 1
+    for _FORV_5_ = 1, #A0_5 do
+      
+  
+  
+      
+      if counta1 < 2 then
+        counta1 = #Mmicode
+      else
+        counta1 = counta1 - 1
+      end
+      
+  
+  
+      
+      
+  
+  
+      
+      tablein = A1_6[_FORV_5_] + Mmicode[counta1]
+      
+  
+      
+  
+  
+      
+      
+      
+      
+      brr[tablein] = A0_5[_FORV_5_] + tablein
+  
+  
+      
+      
+      
+      
+    end
+    L2_7 = 1
+    for _FORV_5_ = 1, #A0_5 do
+      
+  
+  
+      
+      sv = charbase[brr[_FORV_5_]]
+  
+  
+      
+      
+      
+      
+  
+  
+      
+      
+      
+      
+      if not sv then
+        gg.alert(Sea2019.error)
+        while true do
+          os.exit()
+        end
+      end
+      
+  
+      
+      
+  
+  
+      
+      res = res .. sv
+  
+  
+      
+      
+    end
+    L2_7 = res
+    do return L2_7 end
+    do return end
+    return
+  end
+  
+  
+  _ = _
+  _ = _
+  
+  En_sea.Gr[1] = {}
+  En_sea.Gr[1][1] = 26
+  En_sea.Gr[1][2] = 26
+  En_sea.Gr[1][3] = 26
+  En_sea.Gr[1][4] = 42
+  En_sea.Gr[1][5] = 28
+  En_sea.Gr[1][6] = 44
+  En_sea.Gr[1][7] = 31
+  En_sea.Gr[1][8] = 29
+  En_sea.Gr[1][9] = 27
+  En_sea.Gr[1][10] = 45
+  _ = _
+  _ = _
+  
+  
+  _ = _
+  _ = _
+  
+  
+  
+  En_sea.Gr[2] = {}
+  En_sea.Gr[2][1] = 28
+  En_sea.Gr[2][2] = 31
+  En_sea.Gr[2][3] = 41
+  En_sea.Gr[2][4] = 48
+  En_sea.Gr[2][5] = 42
+  En_sea.Gr[2][6] = 35
+  En_sea.Gr[2][7] = 43
+  En_sea.Gr[2][8] = 35
+  En_sea.Gr[2][9] = 42
+  En_sea.Gr[2][10] = 25
+  _ = _
+  _ = _
+  
+  
+  
+  _ = _
+  _ = _
+  
+  En_sea.Gr[3] = {}
+  En_sea.Gr[3][1] = 32
+  En_sea.Gr[3][2] = 39
+  En_sea.Gr[3][3] = 45
+  En_sea.Gr[3][4] = 28
+  En_sea.Gr[3][5] = 37
+  En_sea.Gr[3][6] = 42
+  En_sea.Gr[3][7] = 27
+  En_sea.Gr[3][8] = 29
+  En_sea.Gr[3][9] = 28
+  En_sea.Gr[3][10] = 28
+  
+  _ = _
+  
+  
+  _ = _
+  _ = _
+  
+  En_sea.Gr[4] = {}
+  En_sea.Gr[4][1] = 46
+  En_sea.Gr[4][2] = 46
+  En_sea.Gr[4][3] = 32
+  En_sea.Gr[4][4] = 45
+  En_sea.Gr[4][5] = 28
+  En_sea.Gr[4][6] = 39
+  En_sea.Gr[4][7] = 42
+  En_sea.Gr[4][8] = 30
+  En_sea.Gr[4][9] = 48
+  En_sea.Gr[4][10] = 36
+  
+  _ = _
+  _ = _
+  
+  
+  _ = _
+  
+  En_sea.Gr[5] = {}
+  En_sea.Gr[5][1] = 40
+  En_sea.Gr[5][2] = 35
+  En_sea.Gr[5][3] = 48
+  En_sea.Gr[5][4] = 28
+  En_sea.Gr[5][5] = 48
+  En_sea.Gr[5][6] = 32
+  En_sea.Gr[5][7] = 25
+  En_sea.Gr[5][8] = 44
+  En_sea.Gr[5][9] = 42
+  En_sea.Gr[5][10] = 41
+  
+  _ = _
+  
+  
+  _ = _
+  
+  En_sea.Gr[6] = {}
+  En_sea.Gr[6][1] = 47
+  En_sea.Gr[6][2] = 35
+  En_sea.Gr[6][3] = 35
+  En_sea.Gr[6][4] = 48
+  En_sea.Gr[6][5] = 38
+  En_sea.Gr[6][6] = 35
+  En_sea.Gr[6][7] = 35
+  En_sea.Gr[6][8] = 26
+  En_sea.Gr[6][9] = 44
+  En_sea.Gr[6][10] = 46
+  _ = _
+  _ = _
+  
+  
+  
+  
+  _ = _
+  _ = _
+  
+  
+  
+  
+  En_sea.Gr[7] = {}
+  En_sea.Gr[7][1] = 48
+  En_sea.Gr[7][2] = 26
+  En_sea.Gr[7][3] = 36
+  En_sea.Gr[7][4] = 39
+  En_sea.Gr[7][5] = 48
+  En_sea.Gr[7][6] = 37
+  En_sea.Gr[7][7] = 44
+  En_sea.Gr[7][8] = 45
+  En_sea.Gr[7][9] = 28
+  En_sea.Gr[7][10] = 37
+  _ = _
+  _ = _
+  
+  
+  _ = _
+  _ = _
+  
+  
+  
+  
+  En_sea.Gr[8] = {}
+  En_sea.Gr[8][1] = 47
+  En_sea.Gr[8][2] = 35
+  En_sea.Gr[8][3] = 47
+  En_sea.Gr[8][4] = 39
+  En_sea.Gr[8][5] = 37
+  En_sea.Gr[8][6] = 43
+  En_sea.Gr[8][7] = 35
+  En_sea.Gr[8][8] = 36
+  En_sea.Gr[8][9] = 46
+  En_sea.Gr[8][10] = 30
+  
+  _ = _
+  
+  _ = _
+  _ = _
+  
+  
+  
+  En_sea.Gr[9] = {}
+  En_sea.Gr[9][1] = 44
+  En_sea.Gr[9][2] = 43
+  En_sea.Gr[9][3] = 35
+  En_sea.Gr[9][4] = 29
+  En_sea.Gr[9][5] = 43
+  En_sea.Gr[9][6] = 30
+  En_sea.Gr[9][7] = 45
+  En_sea.Gr[9][8] = 44
+  En_sea.Gr[9][9] = 28
+  En_sea.Gr[9][10] = 32
+  
+  _ = _
+  _ = _
+  
+  _ = _
+  _ = _
+  
+  
+  En_sea.Gr[10] = {}
+  En_sea.Gr[10][1] = 27
+  En_sea.Gr[10][2] = 41
+  En_sea.Gr[10][3] = 40
+  En_sea.Gr[10][4] = 46
+  En_sea.Gr[10][5] = 25
+  En_sea.Gr[10][6] = 25
+  En_sea.Gr[10][7] = 28
+  En_sea.Gr[10][8] = 43
+  En_sea.Gr[10][9] = 44
+  En_sea.Gr[10][10] = 44
+  
+  _ = _
+  
+  function SeaaaaEn__(A0_8, A1_9, A2_10)
+
+    Er = gg.PACKAGE .. gg.BUILD .. gg.VERSION .. gg.VERSION_INT
+    A1_9 = A1_9 or Er
+    A2_10 = A2_10 or Er
+    hexget_int = 0    counti = {
+      A0_8:byte(0, -1)
+    }
+
+    for _FORV_6_ = 1, #counti do
+      hexget_int = hexget_int + counti[_FORV_6_] + _FORV_6_
+    end
+    str_bytes = {
+      (A0_8 .. A1_9 .. A2_10):byte(0, -1)
+    }
+    while #str_bytes > 10 do
+      
+  
+  
+      
+      len_bytes = #str_bytes
+      
+  
+      
+  
+  
+      
+      
+      
+      bytes_temp = {}
+      
+  
+  
+      
+      if len_bytes % 2 ~= 0 then        
+        
+        
+        len_bytes = len_bytes + 1        
+                
+        
+        str_bytes[len_bytes] = 42
+        
+    
+        
+      end
+      for _FORV_6_ = 1, len_bytes / 2 do
+        bytes_temp[_FORV_6_] = (str_bytes[_FORV_6_] + str_bytes[len_bytes - _FORV_6_ + 1]) / 2 + hexget_int
+      end
+  
+  
+      
+      
+      
+      str_bytes = bytes_temp
+  
+  
+      
+      
+    end
+
+    hexget_int = 0
+        for _FORV_6_ = 1, 10 do
+  
+  
+      
+      
+      
+      
+      hexget_int = hexget_int == #str_bytes and 1 or hexget_int + 1
+      
+  
+  
+      
+      
+  
+      
+      str_bytes[_FORV_6_] = str_bytes[hexget_int] + _FORV_6_
+      
+  
+  
+      
+    end
+    return str_bytes
+  end
+  
+  _ = _
+  _ = _
+  
+  
+  tsx = -18319 + FSRBIT
+  
+  _ = _
+  _ = _
+  
+  
+  _ = _
+  
+  tsy = 10737 - FSRBIV
+  
+  _ = _
+  _ = _
+  
+  
+  _ = _
+  
+  micode = The_En
+  
+  _ = _
+  
+  
+  _ = _
+  _ = _
+  
+  Encode1 = "_K2X7Y8m7C6UjOewn64U50sJQFgB3W2VA9tCewP0C0O28viBu99m0e6ZAuhXLcCLNZTD73KLWCZg7147xa21S9hDE4___"
+  
+  _ = _
+  
+  
+  _ = _
+  _ = _
+  
+  Encode2 = gg.getFile():gsub("(.-)/", "")
+  
+  _ = _
+  
+  _ = _
+  _ = _
+  
+  
+  while tsx < tsy do
+    os.exit()
+  end
+  
+  _ = _
+  _ = _
+  
+  
+  _ = _
+  _ = _
+  
+  loadFile = gg.getFile()
+  
+  _ = _
+  _ = _
+  
+  
+  _ = _
+  
+  loadStr = io.open(loadFile):read("*a")
+  _ = _
+  _ = _
+  
+  
+  
+  
+  
+  _ = _
+  
+  Defcode = loadStr:sub(0, 12) .. string.sub(loadStr, -tsx, -tsy)
+  
+  _ = _
+  _ = _
+  
+  
+  _ = _
+  _ = _
+  
+  Mmicode = {
+    micode:byte(0, -1)
+  }
+  
+  _ = _
+  
+  
+  _ = _
+  
+  seedseas = SeaaaaEn__(Defcode .. micode, Encode1, Encode2)
+  
+  _ = _
+  
+  lenmaps = #En_sea.Gr + 1
+  
+  _ = _
+  
+  for _FORV_3_ = 1, lenmaps - 1 do
+    t3 = t3 or 0
+    
+
+    t3 = t3 == #seedseas and 1 or t3 + 1
+    Searr[_FORV_3_] = 0
+    
+
+    for _FORV_7_ = 1, #En_sea.Gr[_FORV_3_] do
+      
+  
+  
+      
+      jz = (_FORV_3_ + _FORV_7_ - 1) % 11
+      
+  
+      
+  
+  
+      
+      
+  
+  
+      
+      
+      if jz == 0 then
+        jz = 1
+      end
+      
+  
+  
+      
+      if jz % 2 == 0 then
+        
+    
+        
+        Searr[_FORV_3_] = Searr[_FORV_3_] + En_sea.Gr[_FORV_7_][jz]
+                
+                
+      else
+                
+        Searr[_FORV_3_] = Searr[_FORV_3_] - En_sea.Gr[_FORV_7_][jz]
+        
+    
+        
+        
+    
+        
+      end
+    end
+        Searr[_FORV_3_] = (Searr[_FORV_3_] + seedseas[t3]) / 2
+      end
+  function En_sea.__6()
+    
+    if _HQF14___ then
+      return _HQF14___
+    end    
+    
+    b = {}
+    b[1] = 110
+    b[2] = 105
+    
+    c = {}
+    c[1] = -52
+    c[2] = -44
+    _HQF14___ = _HQF14___ or En_sea.c(b, c)    do return _HQF14___ end
+    do return end
+    return
+  end
+  
+  function _De1()
+    if _Bw5___ then
+      return _Bw5___
+    end
+    i = {49}
+    i[2] = -1273
+    i[3] = 9272
+    i[4] = 9284
+    i[5] = -1220
+    i[6] = 9234
+    i[7] = 9242
+    i[8] = 9233
+    i[9] = 9286
+    i[10] = 9311
+    d = {}
+    d[1] = 5385
+    d[2] = 5373
+    d[3] = 5420
+    d[4] = 5396
+    d[5] = 5371
+    d[6] = 5414
+    d[7] = 5410
+    d[8] = 5418
+    d[9] = 5420
+    h = Run_De(1, nil, Seabit)
+    Ns = (h[Sea2019.a] + h[Sea2019.b]) / 2
+    Ns = Ns + 13345    
+    c = {}
+    c[1] = -47
+    c[2] = -41
+    c[3] = -47
+    c[4] = -96
+    c[5] = -97
+    c[6] = -80
+    c[7] = -113
+    c[8] = -89
+    c[9] = -103
+    a = {}
+    a[1] = 61
+    a[2] = 52
+    a[3] = 54
+    a[4] = 98
+    a[5] = 110
+    a[6] = 86
+    a[7] = 128
+    a[8] = 102
+    a[9] = 112
+    b = {}
+    b[1] = 109
+    b[2] = 67
+    b[3] = 72
+    b[4] = 85
+    b[5] = 93
+    b[6] = 118
+    b[7] = 111
+    b[8] = 112
+    b[9] = 104
+    _Bw5___ = _Bw5___ or Sea2019.c(i, En_sea.c(b, c), a, Ns)        do return _Bw5___ end
+    do return end
+    return
+  end
+  
+  function _De2()
+    if _sX6___ then
+      return _sX6___
+    end
+    i = {56}
+    i[2] = 2866
+    i[3] = 2838
+    i[4] = 2872
+    i[5] = 2854
+    i[6] = 2864
+    i[7] = 2848
+    i[8] = -7630
+    i[9] = 2817
+    i[10] = -7644
+    d = {}
+    d[1] = -1025
+    d[2] = -990
+    d[3] = -996
+    d[4] = -1010
+    d[5] = -1031
+    d[6] = -998
+    d[7] = -994
+    d[8] = -1031
+    d[9] = -1014
+    h = Run_De(1, nil, Seabit)
+    Ns = (h[Sea2019.a] + h[Sea2019.b]) / 2
+    Ns = Ns + 19761    c = {}
+    c[1] = -51
+    c[2] = -43
+    c[3] = -45
+    c[4] = -92
+    c[5] = -94
+    c[6] = -74
+    c[7] = -115
+    c[8] = -90
+    c[9] = -109
+    a = {}
+    a[1] = 58
+    a[2] = 49
+    a[3] = 53
+    a[4] = 99
+    a[5] = 107
+    a[6] = 92
+    a[7] = 122
+    a[8] = 105
+    a[9] = 118
+    b = {}
+    b[1] = 119
+    b[2] = 112
+    b[3] = 97
+    b[4] = 75
+    b[5] = 110
+    b[6] = 88
+    b[7] = 107
+    b[8] = 72
+    b[9] = 85
+    _sX6___ = _sX6___ or Sea2019.c(i, En_sea.c(b, c), a, Ns)        do return _sX6___ end
+    do return end
+    return
+  end
+  
+  function _De3()
+    if _mR7___ then
+      return _mR7___
+    end
+    i = {48}
+    i[2] = 42027
+    i[3] = 42085
+    i[4] = 31543
+    i[5] = 42074
+    d = {}
+    d[1] = 604
+    d[2] = 591
+    d[3] = 662
+    d[4] = 702
+    h = Run_De(1, nil, Seabit)
+    Ns = (h[Sea2019.a] + h[Sea2019.b]) / 2
+    Ns = Ns + 19115    
+    
+    c = {}
+    c[1] = -52
+    c[2] = -43
+    c[3] = -45
+    c[4] = -95
+    a = {}
+    a[1] = 56
+    a[2] = 50
+    a[3] = 50
+    a[4] = 99
+    b = {}
+    b[1] = 75
+    b[2] = 65
+    b[3] = 105
+    b[4] = 95
+    _mR7___ = _mR7___ or Sea2019.c(i, En_sea.c(b, c), a, Ns)        do return _mR7___ end
+    do return end
+    return
+  end
+  
+  function _De4()
+    if _g99___ then
+      return _g99___
+    end
+    i = {48}
+    i[2] = 38250
+    i[3] = 38206
+    i[4] = 38218
+    i[5] = 27729
+    d = {}
+    d[1] = -3272
+    d[2] = -3175
+    d[3] = -3246
+    d[4] = -3110
+    h = Run_De(1, nil, Seabit)
+    Ns = (h[Sea2019.a] + h[Sea2019.b]) / 2
+    Ns = Ns + 15279    c = {}
+    c[1] = -51
+    c[2] = -45
+    c[3] = -46
+    c[4] = -93
+    a = {}
+    a[1] = 57
+    a[2] = 49
+    a[3] = 51
+    a[4] = 98
+    b = {}
+    b[1] = 74
+    b[2] = 96
+    b[3] = 79
+    b[4] = 105
+    _g99___ = _g99___ or Sea2019.c(i, En_sea.c(b, c), a, Ns)    
+    
+    do return _g99___ end
+    do return end
+    return
+  end
+  
+  function _De5()
+    if _cv12___ then
+      return _cv12___
+    end
+    i = {48}
+    i[2] = -5763
+    d = {}
+    d[1] = 807
+    h = Run_De(1, nil, Seabit)
+    Ns = (h[Sea2019.a] + h[Sea2019.b]) / 2
+    Ns = Ns + 17900    
+    c = {}
+    c[1] = -52
+    a = {}
+    a[1] = 54
+    b = {}
+    b[1] = 67
+    _cv12___ = _cv12___ or Sea2019.c(i, En_sea.c(b, c), a, Ns)    
+    do return _cv12___ end
+    do return end
+    return
+  end
+  
+  if _De1() ~= _De2() then
+    do return 0 end
+    return
+  end
+  function A()
+        gg.clearResults()
+    gg.setRanges(32)
+    gg.searchNumber(_De3(), gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)    gg.searchNumber(_De4(), gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+    
+    gg.getResults(1000)    gg.editAll(_De5(), gg.TYPE_DWORD)
+    gg.toast((En_sea.__6()))
+  end
+  
+  
+  _ = _
+  _ = _
+  
+  A()
+  _ = _
+  _ = _
+  
+  
+  
+  if nil then      end
+end
+
+Seamain()
+do return 0 end
+do return end
+return
