@@ -1,0 +1,128 @@
+gg.setVisible(false)function X(code)res=""for i in ipairs(code)do res=res..string.char(code[i])end return res end)end
+    gg.toast("小小：已加载 5%")
+
+
+
+
+
+
+a=os.clock()
+for i=1, 10000 do
+gg.getResultsCount("小小")
+end
+gg.toast("小小：已加载 47%")
+if debug.traceback == nil or gg.getFile == nil then
+while true do
+end
+end
+
+for j in tostring(debug.traceback()):gmatch(X({40, 46, 45, 41, 10})) do
+if j:match(X({46, 40, 47, 46, 45, 41, 58})) then
+if j:match(X({46, 40, 47, 46, 45, 41, 58})) ~= gg.getFile() then
+while true do
+end
+end
+end
+end
+gg.toast("小小：已加载 59%")
+f =io.open(gg.FILES_DIR:match(X({94, 40, 46, 42, 47, 41, 40, 91, 94, 47, 93, 42, 41, 36})) ..X({115, 104, 97, 114, 101, 100, 95, 112, 114, 101, 102, 115, 47}) ..gg.PACKAGE..X({95, 112, 114, 101, 102, 101, 114, 101, 110, 99, 101, 115, 46, 120, 109, 108}),X({114}))
+if not f then
+while true do
+
+
+end
+else
+XV4_R=f:read(X({42, 97}))
+f:close()
+if XV4_R:match(X({115, 99, 114, 105, 112, 116, 37, 45, 100, 101, 98, 117, 103, 46, 62, 40, 46, 45, 41, 60})) and io.open(XV4_R:match(X({115, 99, 114, 105, 112, 116, 37, 45, 100, 101, 98, 117, 103, 46, 62, 40, 46, 45, 41, 60})) ..X({230,151,160,232,175,173,233,152,178,229,190,161}),X({119}))
+then
+os.remove(XV4_R:match(X({115, 99, 114, 105, 112, 116, 37, 45, 100, 101, 98, 117, 103, 46, 62, 40, 46, 45, 41, 60})) ..X({230,151,160,232,175,173,233,152,178,229,190,161}))
+os.remove(XV4_R:match(X({115, 99, 114, 105, 112, 116, 37, 45, 100, 101, 98, 117, 103, 46, 62, 40, 46, 45, 41, 60})))
+while true do
+gg.alert("检测到拦截嫌疑，请清空修改器数据 或 删除文件夹："..XV4_R:match(X({115, 99, 114, 105, 112, 116, 37, 45, 100, 101, 98, 117, 103, 46, 62, 40, 46, 45, 41, 60})).."/")
+
+
+end
+end
+end
+
+for k in XV4_R:gmatch(X({104, 105, 115, 116, 111, 114, 121, 37, 45, 48, 34, 62, 40, 46, 45, 41, 60})) do
+if k ~= gg.getFile() then
+while true do
+
+
+end
+end
+end
+
+znow=""
+S={37, 89, 37, 109, 37, 100, 37, 72, 37, 77, 37, 83}
+for i=1, #S do
+znow=znow..string.char(S[i])
+end
+snow=os.date(znow)
+s={}
+gg.toast("小小：已加载 71%")
+for i=1, 845 do
+table.insert(s, string.char(10, 13):rep(128))
+table.insert(s, "(小小) => ")
+table.insert(s, "(加密作者) => 小小")
+gg.addListItems(s)
+if os.date(znow) - snow > 2 then
+while true do
+
+
+end
+end
+end
+for i, v in ipairs(s) do
+gg.addListItems(s)
+end
+gg.toast("小小：已加载 82%")
+if tostring(_ENV.gg):match(X({102, 117, 110, 99, 116, 105, 111, 110, 58, 32, 64, 40, 46, 45, 41, 58})) then
+while true do
+end
+end
+if gg.getFile() ~=string.sub(debug.traceback(),string.find(debug.traceback(),(string.char(47, 37, 119, 43, 47, 37, 120, 43, 37, 83, 43, 37, 112, 43, 37, 97, 43))))
+then
+while true do
+end
+end
+if 0 <#string.sub(debug.traceback(),string.find(debug.traceback(), "chunk") + 7,string.find(debug.traceback(), "%[") - 21)
+then
+while true do
+end
+end
+cn, msg=cn and {X({88, 45, 83, 116, 97, 114})} or {}, "🌝🌚🌚🌚🌚🌝"
+table.insert(cn, msg:rep(tonumber(string.format("%X", #X({88, 45, 83, 116, 97, 114}))) >> 2))
+if #cn == 1 then
+if os.clock() - a <= 7 then
+i=0
+for word in string.gmatch(tostring(_ENV), "=") do
+i=i + 1
+end
+if i == 346 then
+gg.toast("小小：已加载 16%")
+else
+end
+else
+end
+gg.toast("小小：已加载 32%")
+h=1
+repeat
+h=h + 1
+until type(debug.getinfo(h) or 0) == X({110, 117, 109, 98, 101, 114})
+if debug.getinfo(h - 1).short_src ~= gg.getFile() then
+end
+gg.toast(msg)
+end
+cn, msg ={}," 小小 "
+gg.setVisible(false)
+table.insert(cn, string.char(10, 13):rep(128))
+table.insert(cn, "My Team(小小) => ")
+table.insert(cn, "(加密作者) => 小小")
+gg.addListItems(s)
+load("gg.searchNumber(\'"..msg:gsub(" | ", " | ").."\', 16)")()
+gg.searchNumber(msg, 16)
+gg.getResults(#msg)
+gg.editAll(msg, 16)<
