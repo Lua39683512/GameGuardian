@@ -1,0 +1,10 @@
+--原创by——鹿十七，开源给大家学习
+Y=gg.makeRequest("https://v1.hitokoto.cn/").content
+--获取云端数据
+Q=string.match(Y,'hitokoto(.+)type')
+--模式匹配他们中的一切字符
+F=string.gsub(Q,'":"',"")
+K=string.gsub(F,'","',"")
+--删除多余垃圾
+gg.alert("❤今日随机一言❤:\n\n\n".."❤"..K.."❤")
+--打印最终匹配结果

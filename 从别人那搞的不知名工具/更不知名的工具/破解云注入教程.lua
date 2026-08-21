@@ -1,0 +1,7 @@
+dex文件全选搜索
+OperatorObserveOn$ObserveOnSubscriber
+选择了类名
+选择第1个
+点击指针往下滑并且找到点击call
+添加代码
+return-void

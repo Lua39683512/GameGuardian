@@ -1,0 +1,108 @@
+--第一章
+
+--列出表内所有参数table.concat
+
+gg.multiChoice  弹出多选窗口
+addListItems()：添加项目到列表中
+alert():警告框
+BUILD:建立
+bytes():字节
+CACHE_DIR:gg
+choice():选择、选定
+clearList():清除列表
+clearResults():清除结果
+copyMemory():复制数据、内存
+copyText():将文本复制到剪贴板
+dumpMemory():丢、转到内存
+editAll():编辑所有
+EXT_CACHE_DIR:缓存目录
+EXT_FILES_DIR:文件目录
+FILES_DIR:文件夹目录
+FREEZE_IN_RANGE:冻结在这个范围里
+FREEZE_MAY_DECREASE:冻结可以减少的值
+FREEZE_MAY_INCREASE:冻结可以增加的值
+FREEZE_NORMAL:冻结正常、常态的值
+
+--第二章
+
+getFile():获取文件名
+getLine():获取行数
+getListItems():
+getLocale():获取地点~~~
+getRanges():获取内存区域内的
+getRangesList():获取内存区域列表
+getResultCount():获取结果计数
+getResults():获取结果并加载
+getSpeed():获取加速
+getTargetInfo():获取目标信息
+getTargetPackage():获取进程包名
+getValues():获取值
+getValuesRange():获取值的范围
+gotoAddress():转到内存地址
+isPackageInstalled():检查包名安装
+isProcessPaused():进程是否暂停
+isVisible():UI是否可见
+LOAD_APPEND:加载附加
+LOAD_VALUES:加载值
+LOAD_VALUES_FREEZE:加载值冻结
+loadList():加载列表
+multiChoice():多种选择
+PACKAGE:包名
+processKill():杀死、结束进程
+
+--第三章
+
+removeListItems():删除列表中的项目
+removeResults():移除列表中的结果
+require():gg
+SAVE_AS_TEXT:保存as？文件
+saveList():保存列表
+searchAddress():搜索地址
+processPause():暂停进程
+processResume():恢复进程
+processToggle():切换进程
+prompt():提示
+
+--第四章
+
+skipRestoreState():跳跃恢复声明?
+sleep():休眠
+startFuzzy():开始模糊搜索
+timeJump():时间跳跃
+toast():显示消息
+searchFuzzy():未知搜索
+searchNumber():指定数值搜索
+setRanges():设置范围
+setSpeed():设置速度
+setValues():设置值
+
+
+--时间
+
+%a  星期简写
+%A  星期大写
+%b  月份简写
+%B  月份大写
+%c  日期时间
+%d  月份天数
+%H  小时[24进制]
+%I  小时[12进制]
+%j  年中第几天
+%m  月份
+%M 分钟
+%p  am或pm
+%S  秒数
+%w  星期
+%W  第几周
+%x  日期
+%X  时间
+%y  两位数的年份
+%Y 完整的年份
+%z  时区
+%% 百分号
+
+
+----总共修改多少条数据
+
+sl=gg.editAll('',gg.TYPE_FLOAT)
+gg.toast("开启成功共修改"..sl.."条数据")

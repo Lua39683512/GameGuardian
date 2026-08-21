@@ -1,0 +1,160 @@
+result = "代码记录中心\n--------------\n"
+print("内存范围数据类型会显示数字\n可以自己查gg函数\n查询方法print(gg)")
+function debug.sethook()
+  gg.sleep(1)
+end
+function gg.copyText()
+  gg.sleep(1)
+end
+function gg.processKill()
+  gg.sleep(1)
+end
+function gg.getTargetPackage()
+  local L0_0, L1_1
+  packge = "com.tencent.tmgp.pubgmhd"
+  L0_0 = packge
+  return L0_0
+end
+function gg.setRanges(A0_2)
+  if A0_2 == 32 then
+    A0_2 = "A内存"
+  end
+  if A0_2 == 524288 then
+    A0_2 = "As内存"
+  end
+  if A0_2 == 131072 then
+    A0_2 = "B内存"
+  end
+  if A0_2 == 16384 then
+    A0_2 = "Xa内存"
+  end
+  if A0_2 == 32768 then
+    A0_2 = "Xs内存"
+  end
+  if A0_2 == 4 then
+    A0_2 = "Ca内存"
+  end
+  if A0_2 == 16 then
+    A0_2 = "Cb内存"
+  end
+  if A0_2 == 8 then
+    A0_2 = "Cd内存"
+  end
+  if A0_2 == 1 then
+    A0_2 = "Ch内存"
+  end
+  if A0_2 == 65536 then
+    A0_2 = "J内存"
+  end
+  if A0_2 == -1032320 then
+    A0_2 = "O内存"
+  end
+  if A0_2 == 262144 then
+    A0_2 = "Rs内存"
+  end
+  if A0_2 == 64 then
+    A0_2 = "S内存"
+  end
+  if A0_2 == 2 then
+    A0_2 = "Jh内存"
+  end
+  result = result .. "内存范围：'" .. A0_2 .. "'\n"
+  gg.setVisible(true)
+end
+function gg.searchNumber(A0_3, A1_4)
+  if A1_4 == 127 then
+    A1_4 = "A类型"
+  end
+  if A1_4 == 1 then
+    A1_4 = "B类型"
+  end
+  if A1_4 == 64 then
+    A1_4 = "E类型"
+  end
+  if A1_4 == 4 then
+    A1_4 = "D类型"
+  end
+  if A1_4 == 16 then
+    A1_4 = "F类型"
+  end
+  if A1_4 == 32 then
+    A1_4 = "Q类型"
+  end
+  if A1_4 == 2 then
+    A1_4 = "W类型"
+  end
+  if A1_4 == 8 then
+    A1_4 = "X类型"
+  end
+  result = result .. "搜索数据：'" .. A0_3 .. "'\n"
+  result = result .. "搜索类型：'" .. A1_4 .. "'\n"
+end
+function gg.searchAddress(A0_5, A1_6)
+  result = result .. "搜索地址：'" .. A0_5 .. "'\n"
+  result = result .. "地址蒙版：'" .. A1_6 .. "'\n"
+end
+function gg.setValues(A0_7)
+  result = result .. "setValues数组：'" .. A0_7 .. "'\n"
+  result = result .. "--------------" .. "\n"
+  gg.setVisible(true)
+end
+function gg.editAll(A0_8, A1_9)
+  if A1_9 == 127 then
+    A1_9 = "A类型"
+  end
+  if A1_9 == 1 then
+    A1_9 = "B类型"
+  end
+  if A1_9 == 64 then
+    A1_9 = "E类型"
+  end
+  if A1_9 == 4 then
+    A1_9 = "D类型"
+  end
+  if A1_9 == 16 then
+    A1_9 = "F类型"
+  end
+  if A1_9 == 32 then
+    A1_9 = "Q类型"
+  end
+  if A1_9 == 2 then
+    A1_9 = "W类型"
+  end
+  if A1_9 == 8 then
+    A1_9 = "X类型"
+  end
+  result = result .. "修改数据：'" .. A0_8 .. "'\n"
+  result = result .. "修改类型：'" .. A1_9 .. "'\n"
+  result = result .. "--------------" .. "\n"
+  gg.setVisible(true)
+end
+function gg.getResultCount()
+  local L0_10, L1_11
+  jieguo = 5
+  L0_10 = jieguo
+  return L0_10
+end
+function os.exit()
+  filel = path .. "[代码记录工具]" .. filename .. ".pilfer"
+  io.open(filel, "w"):write(result):close()
+  gg.setVisible(true)
+end
+function Zexit()
+  filel = path .. "[代码记录工具]" .. filename .. ".pilfer"
+  io.open(filel, "w"):write(result):close()
+  gg.setVisible(true)
+end
+Path = gg.prompt({
+  [1] = "偷代码"
+}, {
+  [1] = "/storage/emulated/0/tencent/QQfile_recv/小小最新小白加密/渊渊660专用.luaXX.LUA"
+}, {
+  [1] = "file"
+})
+if Path == nil then
+  os.exit()
+end
+filepath = Path[1]
+path = filepath:gsub("[^/]+$", "")
+filename = string.sub(filepath, #path + 1, #filepath)
+dofile(Path[1])
