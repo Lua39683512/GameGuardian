@@ -1,0 +1,36 @@
+{
+    name: ["Luax", ".lua", ".Lua", ".luac", ".luax"]
+    colors: [
+    "bool", #ffff0000, #ffd7a8b7
+    "string", #ff009200, #ff588a51
+    "number", #dc006dff, #ff6386c4
+    "type", #ffffa600, #d1d8aa4b
+    "nil", #ffffc685, #ffffc685
+    "keywords", #ff7200ff, #ffa28ec4
+    "package", #1750EB, #ff4784bc
+    "background", #201e8ae8, #1d7da0c9
+    "func", #ff0000ff, #ffac5b97
+    "Mathematical_Codes", #F50000, #BC3F3C
+    ]
+    lineBackground: {match: /[\t ]*function .*/, color: "background"}
+    lineBackground: {match: /.*[\=].*[^'_"]function.*/, color: "background"}
+    lineBackground: {match: /local.*[^'_"]function.*/, color: "background"}
+    comment: {startsWith: "--[[", endsWith: "]]"}
+
+    comment: {startsWith: "--",endsWith:"\n"}
+    
+    
+    
+    contains: [
+        {builtin: #C_QUOTED_STRING#}
+        {builtin: #PROGRAM_NUMBER2#}
+        {match: keywordsToRegex("> < = * - + & $ ^ % | << >>"), 0: "Mathematical_Codes"}
+        {match: keywordsToRegex("LuaO LuaP LuaQ LuaR LuaS LuaT LuaU LuaV LuaW"), 0: "string"}        
+        {match: keywordsToRegex("return then while when and break case switch do else elseif end for if in not or repeat until"), 0: "keywords"}
+        {match: keywordsToRegex("compile import coroutine.isyieldable coroutine.yield coroutine.running coroutine.resume coroutine.wrap coroutine.status coroutine.create collectgarbage tostring load table.concat table.remove table.sort table.pack table.move table.insert table.unpack ipairs debug.getregistry debug.getuservalue debug.setuservalue debug.getupvalue debug.getinfo debug.getlocal debug.setlocal debug.setupvalue debug.traceback debug.getmetatable debug.setmetatable debug.debug debug.upvaluejoin debug.sethook debug.gethook debug.upvalueid pcall require rawequal assert2 gg.getResultsCount gg.SIGN_INEQUAL gg.multiChoice gg.setSpeed gg.getSpeed gg.REGION_C_HEAP gg.bytes gg.getFile gg.require gg.SIGN_LESS_OR_EQUAL gg.TYPE_QWORD gg.getValues gg.setValues gg.editAll gg.SIGN_NOT_EQUAL gg.getListItems gg.loadResults gg.TYPE_XOR gg.getSelectedResults gg.getTargetPackage gg.internal3 gg.PROT_NONE gg.startFuzzy gg.processKill gg.alert gg.playMusic gg.stopMusic gg.REGION_STACK gg.CACHE_DIR gg.setRanges gg.getRanges gg.REGION_CODE_SYS gg.getLine gg.unrandomizer gg.getActiveTab gg.searchPointer gg.ASM_THUMB gg.PROT_WRITE gg.skipRestoreState gg.TYPE_BYTE gg.REGION_C_DATA gg.SIGN_GREATER_OR_EQUAL gg.FILES_DIR gg.FREEZE_IN_RANGE gg.allocatePage gg.getValuesRange gg.PROT_READ gg.REGION_OTHER gg.REGION_VIDEO gg.LOAD_VALUES gg.internal1 gg.EXT_FILES_DIR gg.REGION_BAD gg.ANDROID_SDK_INT gg.removeListItems gg.getTargetInfo gg.toast gg.processResume gg.makeRequest gg.LOAD_VALUES_FREEZE gg.getLocale gg.getSelectedListItems gg.timeJump gg.processToggle gg.disasm gg.getResultCount gg.FREEZE_MAY_DECREASE gg.SIGN_FUZZY_EQUAL gg.processPause gg.FREEZE_MAY_INCREASE gg.isProcessPaused gg.getRangesList gg.getResults gg.TAB_SEARCH gg.copyText gg.REGION_CODE_APP gg.POINTER_NO gg.TAB_SAVED_LIST gg.searchFuzzy gg.BUILD gg.internal2 gg.REGION_ASHMEM gg.TYPE_AUTO gg.REGION_ANONYMOUS gg.clearResults gg.SAVE_AS_TEXT gg.removeResults gg.refineAddress gg.refineNumber gg.SIGN_LARGER gg.TYPE_FLOAT gg.choice gg.ASM_ARM gg.SIGN_FUZZY_GREATER gg.SIGN_EQUAL gg.FREEZE_NORMAL gg.LOAD_APPEND gg.TYPE_WORD gg.numberFromLocale gg.POINTER_READ_ONLY gg.POINTER_WRITABLE gg.REGION_JAVA_HEAP gg.getSelectedElements gg.showUiButton gg.isVisible gg.gotoAddress gg.SIGN_FUZZY_LESS gg.getSelectedPackage gg.TAB_MEMORY_EDITOR gg.REGION_C_BSS gg.saveList gg.addListItems gg.POINTER_EXECUTABLE gg.prompt gg.DUMP_SKIP_SYSTEM_LIBS gg.setVisible gg.REGION_PPSSPP gg.REGION_JAVA gg.searchNumber gg.POINTER_EXECUTABLE_WRITABLE gg.TYPE_DOUBLE gg.PROT_EXEC gg.saveVariable gg.TAB_SETTINGS gg.isPackageInstalled gg.numberToLocale gg.clearList gg.copyMemory gg.EXT_STORAGE gg.SIGN_SMALLER gg.REGION_C_ALLOC gg.hideUiButton gg.VERSION_INT gg.ASM_ARM64 gg.sleep gg.loadList gg.SIGN_FUZZY_NOT_EQUAL gg.TYPE_DWORD gg.VERSION gg.isClickedUiButton gg.dumpMemory gg.PACKAGE gg.EXT_CACHE_DIR gg.searchAddress setmetatable getmetatable rawset os.setlocale os.clock os.tmpname os.getenv os.difftime os.time os.date io.popen io.stdout io.lines io.write io.tmpfile io.open io.stderr io.close io.input io.read io.output io.flush io.type package.path package.loaded package.preload package.config package.loadlib package.searchpath package.searchers bit32.rshift bit32.bnot bit32.lshift bit32.bxor bit32.btest bit32.extract bit32.lrotate bit32.rrotate bit32.band bit32.replace bit32.bor bit32.arshift next select utf8.codes utf8.offset utf8.char utf8.codepoint utf8.len utf8.charpattern loadfile luajava.newInstance luajava.new luajava.bindClass luajava.astable luajava.createProxy luajava.loadLib rawget pairs import string.dump string.reverse string.char string.unpack string.match string.gsub string.find string.pack string.gmatch string.format string.packsize string.lower string.upper string.rep string.sub string.byte string.len tonumber math.sqrt math.atan2 math.ceil math.tanh math.rad math.pi math.abs math.sinh math.atan math.fmod math.mininteger math.random math.max math.randomseed math.modf math.deg math.exp math.ldexp math.cosh math.ult math.log math.tointeger math.frexp math.huge math.asin math.maxinteger math.tan math.floor math.pow math.acos math.cos math.type math.min math.sin xpcall assert dofile print type rawlen gg.alert2"), 0: "package"}
+        {match: keywordsToRegex("local"), 0: "type"}
+        {match: keywordsToRegex("𝑬𝑵𝑪𝑹𝒀𝑷𝑻 true false self this error os.exit os.execute os.rename os.remove"), 0: "bool"}
+        {match: keywordsToRegex("nil"), 0: "nil"}
+        {match: keywordsToRegex("function"), 0: "func"}
+    ]
+}
