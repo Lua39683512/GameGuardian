@@ -1,0 +1,3586 @@
+&&时间:2019.12.20&&
+&&P.M:12.21分&&
+&&编辑作者:未初&&
+&&QQ:419784385&&
+
+&&序:我看到很多接口的首页都失效了，所以把这些接口都收集起来.&&
+
+======================================
+
+孤狼API:http://glapi.cn/
+本网站只提供接口服务，造成的一切后果与本网站无关!如果本站发布的内容侵犯你的利益，请联系我。发送至我的邮箱498031401@qq.com
+
+百度百科
+1 请求地址
+请求http://glapi.cn/baike/api.php?msg=马云
+2 接口描述：
+直接GET带参数访问即可返回数据。
+
+皮皮搞笑接口
+1 请求地址
+视频http://glapi.cn/pp/api.php?id=1
+段子http://glapi.cn/pp/api.php?id=2
+游戏http://glapi.cn/pp/api.php?id=3
+推荐http://glapi.cn/pp/api.php?id=4
+
+小米手机激活日期查询
+1 请求地址
+http://glapi.cn/IMEI/api.php?msg=手机IMEI码
+
+抖音视频接口
+1 请求地址
+http://glapi.cn/dy/api.php
+
+读心术
+1 请求地址
+请求http://glapi.cn/dxs/api.php?msg=指令
+指令：开始读心术、是、不是、不知道、开始
+
+PING接口
+1 请求地址
+http://glapi.cn/ping/api.php?msg=http://glapi.cn
+
+ICP备案查询
+1 请求地址
+请求http://glapi.cn/icp/api.php?msg=qq.com
+
+发光字图制作
+1 请求地址
+手写荧光字请求http://glapi.cn/jqwjp/api.php?id=1&msg=孤狼API
+
+手写火焰字请求http://glapi.cn/jqwjp/api.php?id=2&msg=孤狼API
+
+手写炫彩字请求http://glapi.cn/jqwjp/api.php?id=3&msg=孤狼API
+
+连笔荧光字请求http://glapi.cn/jqwjp/api.php?id=4&msg=孤狼API
+
+连笔火焰字请求http://glapi.cn/jqwjp/api.php?id=5&msg=孤狼API
+
+连笔黑色字请求http://glapi.cn/jqwjp/api.php?id=6&msg=孤狼API
+
+连笔玉雕字请求http://glapi.cn/jqwjp/api.php?id=7&msg=孤狼API
+
+手写炫彩字请求http://glapi.cn/jqwjp/api.php?id=8&msg=孤狼API
+
+艺术花鸟签请求http://glapi.cn/jqwjp/api.php?id=9&msg=孤狼API
+
+QQ头像昵称查看
+1 请求地址
+请求http://glapi.cn/qqnicheng/api.php?qq=498031401
+
+搜图接口
+1 请求地址
+百度搜图http://glapi.cn/st/api.php?id=1&msg=美女
+
+360搜图http://glapi.cn/st/api.php?id=2&msg=美女
+
+搜狗搜图http://glapi.cn/st/api.php?id=3&msg=美女
+
+藏头、藏中、藏尾诗接口
+1 请求地址
+藏头诗http://glapi.cn/cts/api.php?id=1&msg=藏头诗
+
+藏中诗http://glapi.cn/cts/api.php?id=2&msg=藏中诗
+
+藏尾诗http://glapi.cn/cts/api.php?id=3&msg=藏尾诗
+
+腾讯接口
+1 请求地址
+http://glapi.cn/video/api.php?msg=功夫
+
+对接代刷名片赞接口
+1 请求地址
+http://glapi.cn/mpz/api.php?url={代刷网址}&tid={免费名片赞tid}&qq={要刷的qq}
+
+快递查询接口
+1 请求地址
+http://glapi.cn/kd/api.php?msg=3706541402154
+
+bilibili接口
+1 请求地址
+随机视频请求http://glapi.cn/bilibili/api.php
+搜索视频请求http://glapi.cn/bilibili/apis.php?msg=美女
+选视频请求http://glapi.cn/bilibili/apis.php?msg=美女&xg=1
+
+举牌API
+1 请求地址
+http://glapi.cn/jp/api.php?msg=孤狼API
+
+文字转语音API
+1 请求地址
+http://glapi.cn/amr/api.php?msg=孤狼API
+
+图片接口
+1 请求地址
+美女图片请求http://glapi.cn/pic/api.php
+
+v9唱歌音频接口
+1 请求地址
+请求http://glapi.cn/v9amr/api.php
+
+天气接口
+1 请求地址
+请求http://glapi.cn/tq/api.php?msg=深圳
+
+歌词API
+1 请求地址
+http://glapi.cn/kglrc/api.php?msg=林中鸟
+
+YY直播接口
+1 请求地址
+yy歌舞http://glapi.cn/yy/api.php?id=1
+
+YY绝地求生http://glapi.cn/yy/api.php?id=2
+
+YY脱口秀http://glapi.cn/yy/api.php?id=3
+
+YY刺激战场http://glapi.cn/yy/api.php?id=4
+
+YY王者荣耀http://glapi.cn/yy/api.php?id=5
+
+YY喊麦http://glapi.cn/yy/api.ph?p?id=6
+
+base64加解密
+1 请求地址
+加密:http://glapi.cn/base64/api.php?id=1&msg=孤狼API
+解密:http://glapi.cn/base64/api.php?id=1&msg=5a2k54u8QVBJ
+
+百思不得姐
+1 请求地址
+http://glapi.cn/bsbdj/api.php
+
+快手视频接口
+1 请求地址
+http://glapi.cn/ks/api.php
+
+美拍视频搜索
+1 请求地址
+请求http://glapi.cn/mps/api.php?msg=美女
+
+抖音无水印解析
+1 请求地址
+http://glapi.cn/dyjx/api.php?msg=http://v.douyin.com/jfTQom/
+
+全民k歌解析接口
+1 请求地址
+解析请求http://glapi.cn/kgzs/api.php?msg=https://node.kg.qq.com/play?s=sUR4UVsDPPSkosD9&shareuid=6a9c9c85202c3e8a&topsource=a0_pn201001006_z11_u81105191_l0_t1556549627__
+
+酷狗音乐列表接口
+1 请求地址
+歌名请求http://glapi.cn/kgmusic/api.php?msg=林中鸟
+
+选歌请求http://glapi.cn/kgmusic/api.php?msg=林中鸟&xg=1
+
+网易音乐列表接口
+1 请求地址
+歌名请求http://glapi.cn/kgmusic/api.php?msg=林中鸟
+
+选歌请求http://glapi.cn/kgmusic/api.php?msg=林中鸟&xg=1
+
+QQ音乐列表接口
+1 请求地址
+歌名请求http://glapi.cn/qqmusic/api.php?msg=林中鸟
+
+选歌请求http://glapi.cn/qqmusic/api.php?msg=林中鸟&xg=1
+
+咪咕音乐列表接口
+1 请求地址
+歌名请求http://glapi.cn/migumusic/api.php?msg=林中鸟
+
+选歌请求http://glapi.cn/migumusic/api.php?msg=林中鸟&xg=1
+
+百度音乐列表接口
+1 请求地址
+歌名请求http://glapi.cn/kgmusic/api.php?msg=林中鸟
+
+选歌请求http://glapi.cn/kgmusic/api.php?msg=林中鸟&xg=1
+
+喜马拉雅列表接口
+1 请求地址
+歌名请求http://glapi.cn/migumusic/api.php?msg=林中鸟
+
+选歌请求http://glapi.cn/migumusic/api.php?msg=林中鸟&xg=1
+
+酷狗MV接口
+1 请求地址
+请求http://glapi.cn/kgmv/api.php?msg=林中鸟
+
+酷我MV接口
+1 请求地址
+请求http://glapi.cn/kwmv/api.php?msg=勿忘我
+
+QQMV接口
+1 请求地址
+歌名请求http://glapi.cn/qqmv/api.php?msg=林中鸟
+
+选mv请求http://glapi.cn/qqmv/api.php?msg=林中鸟&xg=1
+
+音悦MV接口
+1 请求地址
+歌名请求http://glapi.cn/yinyuetaimv/api.php?msg=林中鸟
+
+选mv请求http://glapi.cn/yinyuetaimv/api.php?msg=林中鸟&xg=1
+
+百度MV接口
+1 请求地址
+请求http://glapi.cn/bdmv/api.php?msg=林中鸟
+
+火山小视频接口
+1 请求地址
+get请求http://glapi.cn/snssd/api.php
+
+历史上的今天
+1 请求地址
+http://glapi.cn/lssdjt/api.php
+
+随机颜色接口
+1 请求地址
+请求http://glapi.cn/color/api.php
+
+Qrcode二维码
+1 请求地址
+请求http://glapi.cn/qrcode/api.php?msg=孤狼API官方群:74976803&size=100
+2 接口描述：
+直接GET带参数访问即可返回数据。
+3. 请求参数:
+调用方式	请求方式	请求参数	图大小参数	备注
+GET	url	msg	size	无
+4
+
+Bing每日一图
+1 请求地址
+请求http://glapi.cn/bing/api.php
+
+QQ电脑在线状态
+1 请求地址
+请求http://glapi.cn/qqzx/api.php?qq=498031401
+
+======================================
+
+狸猫APi:http://limo.suiweng.cn/api/
+
+授权 - API
+授权API请求方式
+GET
+请求地址：
+http://limo.suiweng.cn/dz/账号/sqcx.php
+参数：
+账号：狸猫授权系统的账号
+q：查询的QQ号(必填)
+返回数据：
+已授权 未授权
+备注：
+前往https://www.lanzous.com/b851336下载APP，联系QQ762259384注册账号
+示例：
+http://limo.suiweng.cn/dz/账号/sqcx.php?q=查询的QQ
+
+测试机器人 - API
+测试机器人API请求方式
+GET
+请求地址：
+http://sqv6.com/jqr/csjqr.php
+参数：
+nr：内容(必填)
+返回数据：
+自己测试
+备注：
+暂无
+示例：
+http://sqv6.com/jqr/csjqr.php?nr=[内容]
+
+对接代刷网 - API
+对接代刷网API请求方式
+GET
+请求地址：
+http://sqv6.com/api/dsw/dsw.php
+参数：
+url：代刷网网址(必填)
+tid：代刷网TID(必填)
+ts：代刷网返回结果(必填)
+zh：下单QQ号(必填)
+返回数据：
+QQ:573456737，名片赞100
+备注：
+最近反馈说乱码
+示例：
+http://sqv6.com/api/dsw/dsw.php?url=[代刷网网址]&tid=[代刷网TID]&ts=[名片赞100]&zh=[QQ号]
+
+付费名片赞 - API
+付费名片赞API请求方式
+GET
+请求地址：
+http://sqv6.com/api/dsw/mpz/mpz.php
+参数：
+id：ID(必填)
+sl：数量(必填/100-200-300-400-500-1000-1500-2000-2500-3000-5000-10000)
+zh：QQ号(必填)
+返回数据：
+QQ:573456737，名片赞100
+备注：
+暂无
+示例：
+http://sqv6.com/api/dsw/mpz/mpz.php?id=[ID]&sl=[数量]&zh=[QQ号] 
+数量示例：
+http://sqv6.com/api/dsw/mpz/[ID].txt 
+日志示例：
+http://sqv6.com/api/dsw/mpz/rz.[ID].txt
+
+免费名片赞 - API
+免费名片赞API请求方式
+GET
+请求地址：
+http://sqv6.com/api/dsw/mfmpz/mpz.php
+参数：
+zh：QQ号(必填)
+返回数据：
+QQ:573456737，名片赞100
+备注：
+有可能不到账
+示例：
+http://sqv6.com/api/dsw/mfmpz/mpz.php?zh=[QQ号]
+
+邮箱 - API
+邮箱API请求方式
+GET
+请求地址：
+http://sqv6.com/api/yx/yx.php
+参数：
+fsyx：发送者邮箱(必填)
+fsmm：发送者密码(必填/QQ邮箱需要邮箱授权码)
+jsyx：邮箱账号(必填)
+bt：邮箱标题(必填)
+nr：邮箱内容(必填)
+返回数据：
+发送邮箱成功
+备注：
+请勿轰炸，轰炸拉黑
+示例：
+http://sqv6.com/api/yx/yx.php?fsyx=[发送邮箱]&yxmm=[邮箱密码]&jsyx=[接收邮箱]&bt=[标题]&nr=[内容]
+
+QQ等级 - API
+QQ等级API请求方式
+GET
+请求地址：
+http://sqv6.com/api/api/qqdj.php
+参数：
+zh：QQ号(必填)
+返回数据：
+LV:54☀☀☀🌙⭐⭐
+备注：
+暂无
+示例：
+http://sqv6.com/api/api/qqdj.php?zh=[QQ号]
+
+QQ昵称 - API
+QQ昵称API请求方式
+GET
+请求地址：
+http://sqv6.com/api/api/qqnc.php
+参数：
+zh：QQ号(必填)
+返回数据：
+小鹏
+备注：
+暂无
+示例：
+http://sqv6.com/api/api/qqnc.php?zh=[QQ号]
+
+QQ性别 - API
+QQ性别API请求方式
+GET
+请求地址：
+http://sqv6.com/api/api/qqxb.php
+参数：
+zh：QQ号(必填)
+返回数据：
+无
+备注：
+容易出现bug
+示例：
+http://sqv6.com/api/api/qqxb.php?zh=[QQ号]
+
+QQ名片赞 - API
+QQ名片赞API请求方式
+GET
+请求地址：
+http://sqv6.com/api/api/qqmpz.php
+参数：
+zh：QQ号(必填)
+返回数据：
+123456
+备注：
+暂无
+示例：
+http://sqv6.com/api/api/qqmpz.php?zh=[QQ号]
+
+百度搜图 - API
+百度搜图API请求方式
+GET
+请求地址：
+http://sqv6.com/api/api/bdst.php
+参数：
+msg：名称(必填)
+lx：类型(选填/0=图/1=链接/2=手机版机器人发图)
+返回数据：
+不知道
+备注：
+暂无
+示例：
+http://sqv6.com/api/api/bdst.php?msg=[名称]&lx=[1-2]
+
+百度天气 - API
+百度天气API请求方式
+GET
+请求地址：
+http://sqv6.com/api/api/bdtq.php
+参数：
+msg：地区名(必填)
+返回数据：
+暂无
+备注：
+暂无
+示例：
+http://sqv6.com/api/api/bdtq.php?msg=[地区名]
+
+随机一言 - API
+随机一言API请求方式
+GET
+请求地址：
+http://sqv6.com/api/sjyy/index.php
+参数：
+无需参数
+返回数据：
+一言难尽
+备注：
+暂无
+示例：
+http://sqv6.com/api/sjyy/index.php
+
+随机颜色 - API
+随机颜色API请求方式
+GET
+请求地址：
+http://sqv6.com/api/api/sjys.php
+参数：
+无需参数
+返回数据：
+#ff0000
+备注：
+暂无
+示例：
+http://sqv6.com/api/api/sjys.php
+
+图灵聊天 - API
+图灵聊天API请求方式
+GET
+请求地址：
+http://sqv6.com/api/api/tllt.php
+参数：
+nr：内容(必填)
+返回数据：
+你好啊
+备注：
+暂无
+示例：
+http://sqv6.com/api/api/tllt.php?nr=[内容]
+
+PING - API
+PINGAPI请求方式
+GET
+请求地址：
+http://sqv6.com/api/api/ping.php
+参数：
+msg：域名/IP(必填)
+返回数据：
+暂无
+备注：
+暂无
+示例：
+http://sqv6.com/api/api/ping.php?msg=[域名/IP]
+
+=====================================
+
+帝一API:https://api.diyigzs.com/
+本网站只提供接口服务，造成的一切后果与本网站无关!
+企鹅83506132
+
+网站标题获取
+接口地址：https://api.diyigzs.com/wzbthq/api.php
+返回格式：json
+请求方式：get/post
+请求示例：https://api.diyigzs.com/wzbthq/api.php?url=www.baidu.com
+
+网站百度收录查询
+接口地址：https://api.diyigzs.com/wzbdslcx/api.php
+返回格式：json
+请求方式：get/post
+请求示例：https://api.diyigzs.com/wzbdslcx/api.php?url=www.baidu.com
+
+一键黑TP5(小学生式黑站)
+接口地址：https://api.diyigzs.com/yjhtp5/api.php
+返回格式：json
+请求方式：get/post
+请求示例：https://api.diyigzs.com/yjhtp5/api.php?url=http://www.baidu.com&file=test.php&content=123456
+请求参数说明名称	必填	类型	说明
+ 	url	是	string	输入网址，如：http://www.baidu.com
+ 	file	是	string	输入文件名，如：test.php
+ 	content	是	string	输入内容，如：123456
+
+# 二次元随机图API请求方式 #
+Method: GET
+# 请求地址 #
+http://api.ni-co.cn/random/api.php
+# 参数 #
+type //type=pc为电脑壁纸/pe为手机壁纸，留空默认输出pc
+# 返回数据 #
+本API无返回数据,直接输出图片
+# 备注 #
+-=-=-=-
+# 示例 #
+http://api.ni-co.cn/random/api.php?type=pc
+
+百度ip定位
+接口地址：https://api.diyigzs.com/bdipdw/api.php
+返回格式：json
+请求方式：get/post
+请求示例：https://api.diyigzs.com/bdipdw/api.php?ip=182.97.65.188
+
+# Qrcode二维码API请求方式 #
+Method: GET
+# 请求地址 #
+http://api.diyigzs.com/qrcode/api.php
+# 参数 #
+text //二维码内容(链接请带Http/Https,必填)
+size //二维码大小(大小为px,选填)
+# 返回数据 #
+本API无返回数据,直接输出二维码
+# 备注 #
+-=-=-=-
+# 示例 #
+http://api.diyigzs.com/qrcode/api.php?text=内容&size=大小
+
+# 随机图API请求方式 #
+Method: GET
+# 请求地址 #
+https://api.diyigzs.com/sjbz/api.php
+# 参数 #
+method【mobiel(手机端),pc（电脑端）
+lx【dongman（动漫壁纸）,meizi（美女壁纸）,fengjing（风景壁纸）,suiji（动漫和美女随机）】
+# 返回数据 #
+本API无返回数据,直接输出图片
+# 备注 #
+-=-=-=-
+# 示例 #
+http://api.diyigzs.com/sjbz/api.php?lx=dongman
+http://api.diyigzs.com/sjbz/api.php?method=mobile&lx=suiji
+
+# ICP备案查询API请求方式 #
+Method: GET
+# 请求地址 #
+http://api.diyigzs.com/icp/api.php
+# 参数 #
+dm //要查询ICP备案的域名,必填)
+# 返回数据 #
+{"code":"200","主办单位名称":"深圳市腾讯计算机系统有限公司","主办单位性质":"企业","网站备案/许可证号":"粤B2-20090059-5","网站名称":"腾讯网","网站首页网址":"www.qq.com","审核时间":"2018/11/9 0:00:00"}
+# 备注 #
+如果你是小白，你可以尝试这样做来调用API
+<?php 
+$dm = $_GET['dm'];
+$str = file_get_contents('http://api.diyigzs.com/icp/api.php?dm='.$dm);
+$data = json_decode($str,ture);
+$a = $data['主办单位名称'];
+$b = $data['主办单位性质'];
+$c = $data['网站备案/许可证号'];
+$d = $data['网站名称'];
+$e = $data['网站首页网址'];
+$f = $data['审核时间'];
+?>
+<!--HTML代码-->
+<ul>
+<li><?php echo $a;?></li>
+<li><?php echo $b;?></li>
+<li><?php echo $c;?></li>
+<li><?php echo $d;?></li>
+<li><?php echo $e;?></li>
+<li><??php echo $f;?></li>
+</ul>
+最后,假设写在了api.php,访问api/?dm=域名即可
+<!--HTML代码结束-->
+# 示例 #
+http://api.diyigzs.com/icp/api.php?dm=qq.com
+
+# QQ电脑在线状态API请求方式 #
+Method: GET
+# 请求地址 #
+http://api.diyigzs.com/qqol/api.php
+# 参数 #
+qq //要查询的QQ号(必填)
+# 返回数据 #
+{"code":"20","msg":"电脑在线"}
+{"code":"21","msg":"电脑离线"}
+# 备注 #
+-=-=-=-
+# 示例 #
+http://api.diyigzs.com/qqol/api.php?qq=83506132
+
+# 获取QQ昵称和头像API请求方式 #
+Method: GET
+# 请求地址 #
+http://api.diyigzs.com/qqxt/api.php
+# 参数 #
+qq //要查询的QQ号(必填)
+# 返回数据 #
+{"code":1,"imgurl":"https://q.qlogo.cn/headimg_dl?dst_uin=1807139605&spec=100","name":"缥缈"}
+{"code":-1,"msg":"Error"}
+# 备注 #
+-=-=-=-
+# 示例 #
+http://api.diyigzs.com/qqxt/api.php?qq=83506132
+
+Bing每日图 - API
+# Bing每日图API请求方式 #
+Method: GET
+# 请求地址 #
+http://api.diyigzs.com/bing/api.php
+# 参数 #
+None 无参数可直接调用
+# 返回数据 #
+本API无返回数据,直接输出图片
+# 备注 #
+-=-=-=-
+# 示例 #
+<img src="http://api.diyigzs.com/bing/api.php"/>
+
+网易云音乐解析 - API
+# 网易云音乐解析API请求方式 #
+Method: GET
+# 请求地址 #
+http://api.diyigzs.com/wyy/api.php
+# 参数 #
+id //网易云歌曲ID(必填)
+# 返回数据 #
+本API无返回数据,直接输出音乐
+# 备注 #
+-=-=-=-
+# 示例 #
+http://api.diyigzs.com/wyy/api.php?id=277382
+
+QQ加群 - API
+# QQ加群API请求方式 #
+Method: Post
+# 请求地址 #
+http://api.diyigzs.com/qun/api.php
+# 参数 #
+guin //QQ群号(必填)
+# 返回数据 #
+{"code":1,"url":"http://shang.qq.com/wpa/qunwpa?idkey=35f95d22702ee94cd53c8c1632294b6eb38d3bc70addd89f93288600797f7652"}
+# 备注 #
+-=-=-=-
+# 示例 #
+http://api.diyigzs.com/qun/api.php?guin=375545836
+
+邮件发送 - API
+# 邮件发送API请求方式 #
+Method: GET
+# 请求地址 #
+http://api.diyigzs.com/mail/api.php
+# 参数 #
+address //收件人邮箱地址
+name //邮件标题
+certno //邮件内容(支持HTML格式)
+# 返回数据 #
+{"Code":"1","msg":"发送成功!"}
+{"Code":"-1","msg":"Error!发送失败QAQ"}
+# 备注 #
+公共API邮件接口，请勿频繁发送垃圾邮件，此外邮件可能在垃圾箱里面，此API邮件含IP记录+邮件统计，一经发现频繁灌水拉黑邮箱和IP！
+# 示例 #
+http://api.diyigzs.com/mail/api.php?address=83506132@qq.com&name=你好,世界&certno=缥缈今天也很装逼呢
+
+IP签名档 - API
+# IP签名档API请求方式 #
+Method: GET
+# 请求地址 #
+http://api.diyigzs.com/netcard/api.php
+# 返回数据 #
+本API无返回数据,直接输出图片
+# 备注 #
+-=-=-=-
+# 示例 #
+<img src="http://api.diyigzs.com/netcard/api.php"/>
+
+随机语录 - API
+# 随机语录API请求方式 #
+Method: Get
+# 请求地址 #
+http://api.diyigzs.com/yan/api.php
+# 参数 #
+charset//字符编码（gbk/utf-8）
+encode//返回类型（text/js/json）
+# 返回数据 #
+js输出：function binduyan(){document.write('群发的祝福和个位数的红包，都是没有灵魂的。');}
+# 备注 #
+js调用举例:<script src="http://api.diyigzs.com/yan/api.php?encode=js"></script>
+js输出举例:<div><script>binduyan()</script></div>
+# 示例 #
+http://api.diyigzs.com/yan/api.php?charset=utf-8
+http://api.diyigzs.com/yan/api.php?encode=js
+
+蓝奏直链获取 - API
+# 蓝奏直链获取API请求方式 #
+Method: Post
+# 请求地址 #
+http://api.diyigzs.com/lanzou/api.php
+# 参数 #
+url //链接(必填)
+type=down（直接下载）
+# 返回数据 #
+直接返回txt文本链接或者下载
+# 备注 #
+-=-=-=-
+# 示例 #
+http://api.diyigzs.com/lanzou/api.php?url=https://www.lanzous.com/i1fjmtg
+http://api.diyigzs.com/lanzou/api.php?url=https://www.lanzous.com/i1fjmtg&type=down
+
+随机头像 - API
+# 随机头像API请求方式 #
+Method: GET
+# 请求地址 #
+http://api.diyigzs.com/sjtx/api.php
+# 参数 #
+lx【1.男头：a1 2.女头：b1 3.动漫：c1 4.动漫女头：c2 5.动漫男头：c3】
+# 返回数据 #
+本API无返回数据,直接输出头像
+# 备注 #
+后续将会增加更多类型的头像，欢迎大家投稿
+# 示例 #
+http://api.diyigzs.com/sjtx/api.php?lx=c1
+
+圆通快递查询
+接口地址： https://api.diyigzs.com/yuanton/api.php
+返回格式： JSON
+请求方式： GET
+请求示例： https://api.diyigzs.com/yuanton/api.php?num=订单号
+
+中通快递查询
+接口地址： https://api.diyigzs.com/zhonton/api.php
+
+返回格式： JSON
+
+请求方式： GET
+
+请求示例： https://api.diyigzs.com/zhonton/api.php?num=73113244809048
+
+域名监测查询-QQ-微信
+接口地址： https://api.diyigzs.com/qqwxym/api.php
+
+返回格式： JSON
+
+请求方式： GET
+
+请求示例： https://api.diyigzs.com/qqwxym/api.php?url=www.diyigzs.com
+
+全民k歌解析
+接口地址： https://api.diyigzs.com/kg/api.php
+返回格式： JSON
+请求方式： POST
+请求示例： https://api.diyigzs.com/kg/api.php?url=链接
+请求参数说明：
+名称	必填	类型	说明
+url	是	String	歌曲链接
+返回参数说明：
+名称	类型	说明
+content	String	音乐内容
+nick	String	唱者昵称
+content	String	音乐内容
+tail_name	String	手机型号
+song_name	String	演唱歌曲名字
+comments	String	评论信息
+data_url	String	歌曲链接
+
+======================================
+
+Kate·Api :https://api.66mz8.com/
+关于 Kate·Api
+Kate·Api 是 卡特实验室 支持并维护的 API 接口项目，致力于为用户提供稳定、快速的免费 API 接口服务平台。
+自2018年02月20日上线以来总累计提供数 3,824,687次 API 接口服务。
+反馈或建议请发送邮件至：1875391011@qq.com
+
+QQ等级查询
+查询任意qq号码的Qq等级等情况
+示例代码
+接口地址：https://api.66mz8.com/api/qq.level.php
+返回格式：json
+请求方式：get/post
+请求示例：https://api.66mz8.com/api/qq.level.php?qq=1875391011
+请求参数说明：
+名称	必填	类型	说明
+ 	qq	是	string	需要查询的Qq，如：1875391011
+返回参数说明：名称	类型	说明
+ 	code	string	返回的状态码
+ 	msg	string	返回的提示信息
+ 	qq	string	返回查询的QQ账号
+ 	name	string	返回查询的QQ昵称
+ 	level	string	返回查询的QQ等级
+ 	active	string	返回QQ的活跃天数
+ 	speed	string	返回QQ的成长速度
+ 	growth	string	返回QQ的会员成长
+ 	update	string	返回数据的更新时间
+ 	
+QQ强制聊天对话
+强制弹出QQ聊天对话窗口，兼容所有设备
+示例代码
+接口地址：https://api.66mz8.com/api/qq.talk.php
+返回格式：301重定向
+请求方式：get/post
+请求示例：https://api.66mz8.com/api/qq.talk.php?qq=1875391011&format=card
+请求参数说明：名称	必填	类型	说明
+ 	qq	是	string	需要对话的QQ号，如：1875391011
+ 	format	否	string	选择打开方式 [chat|card]
+返回参数说明：名称	类型	说明
+ 	code	string	返回的状态码
+ 	msg	string	返回错误提示
+
+获取QQ头像
+根据QQ账号获取QQ头像图片
+示例代码
+接口地址：https://api.66mz8.com/api/qq.logo.php
+返回格式：json/images
+请求方式：get/post
+请求示例：https://api.66mz8.com/api/qq.logo.php?qq=1875391011
+
+获取QQ相关信息
+接口地址：https://api.66mz8.com/api/qq.info.php
+返回格式：json
+请求方式：get/post
+请求示例：https://api.66mz8.com/api/qq.info.php?qq=1875391011
+
+查询ＱＱ空间访客
+接口地址：https://api.66mz8.com/api/qzone.php
+返回格式：json
+请求方式：get/post
+请求示例：https://api.66mz8.com/api/qzone.php?qq=1875391011
+
+三合一收款码
+将QQ、微信、支付宝收款集合到一起，省去用户选择时间。
+接口地址：https://api.66mz8.com/api/qrpay.php
+返回格式：json/image
+请求方式：get/post
+请求示例：https://api.66mz8.com/api/qrpay.php?alipay=https%3A%2F%2Fqr.alipay.com%2Ffkx03631lvjxkhkvediqhbd&wxpay=wxp%3A%2F%2Ff2f0lb7ivnq8IKE7Tfr-ldH2UsU150yBwwGb&qqpay=https%3A%2F%2Fi.qianbao.qq.com%2Fwallet%2Fsqrcode.htm%3Fm%3Dtenpay%26f%3Dwallet%26a%3D1%26ac%3DDB09ABFE1634B0E4BEB25DEB6AA38317413F6F4465A03FDA9AE9EEA04E7B38FA%26u%3D1875391011%26n%3DKate&uin=1875391011
+在线使用：http://qrpay.66mz8.com
+请求参数说明：
+名称	必填	类型	说明
+ 	alipay	是	string	支付宝收款地址，url编码后传递
+ 	wxpay	是	string	微 信 收 款地址，url编码后传递
+ 	qqpay	是	string	Ｑ Ｑ 收 款地址，url编码后传递
+ 	uin	是	int	收款QQ号，作为头像，商户名依据
+ 	name	否	string	收款昵称，作为商户名依据
+ 	bgcolor	否	string	二维码背景颜色 例如:ffffff
+ 	color	否	string	二维码点颜色 例如:999999
+ 	format	否	string	选择输出格式 [json|txt|base64|jpg]
+返回参数说明：
+名称	类型	说明
+ 	code	string	返回的状态码
+ 	msg	string	返回错误提示
+ 	pay_url	string	返回收款码链接
+
+二维码生成图片1
+接口地址：https://api.66mz8.com/api/qrcode.php
+返回格式：image
+请求方式：get
+请求示例：https://api.66mz8.com/api/qrcode.php?url=http://qrpay.66mz8.com
+
+二维码生成图片2
+接口地址：https://api.66mz8.com/api/qr.php
+返回格式：image
+请求方式：get
+请求示例：https://api.66mz8.com/api/qr.php?text=http://qrpay.66mz8.com&size=216
+
+二维码解析解码器
+接口地址：https://api.66mz8.com/api/qrencode.php
+返回格式：json/txt
+请求方式：get/post
+请求示例：https://api.66mz8.com/api/qrencode.php?url=https://tva3.sinaimg.cn/large/007X8olVly1g822adxbc0j308c08c0st.jpg
+请求参数说明：
+名称	必填	类型	说明
+ 	url	是	string	带有二维码的图链
+ 	format	否	string	选择输出格式 [json|txt]
+返回参数说明：
+名称	类型	说明
+ 	code	string	返回的状态码
+ 	msg	string	返回错误提示
+ 	qrurl	string	返回解析地址
+ 	
+垃圾分类查询
+接口地址：https://api.66mz8.com/api/garbage.php
+返回格式：json
+请求方式：get/post
+请求示例：https://api.66mz8.com/api/garbage.php?key=纸巾
+
+超级ping检测
+接口地址：https://api.66mz8.com/api/ping.php
+返回格式：json
+请求方式：get/post
+请求示例：https://api.66mz8.com/api/ping.php?host=www.qq.com
+
+天气预报查询
+接口地址：https://api.66mz8.com/api/weather.php
+返回格式：json
+请求方式：get/post
+请求示例：https://api.66mz8.com/api/weather.php?location=北京
+
+万能中文翻译
+支持中、英、日、韩等28种语言互译
+接口地址：https://api.66mz8.com/api/fanyi.php
+返回格式：json
+请求方式：get/post
+请求示例：https://api.66mz8.com/api/fanyi.php?info=I come from China
+
+快递信息查询
+快递物流轨迹信息查询
+接口地址：https://api.66mz8.com/api/courier.php
+返回格式：json
+请求方式：get/post
+请求示例：https://api.66mz8.com/api/courier.php?num=73113244809048
+
+圆通快递查询
+圆通快递物流轨迹信息查询
+示例代码
+接口地址：https://api.66mz8.com/api/yto.php
+返回格式：json
+请求方式：get/post
+请求示例：https://api.66mz8.com/api/yto.php?num=YT2019101989113
+
+中通快递查询
+中通快递物流轨迹信息查询
+示例代码
+接口地址：https://api.66mz8.com/api/zto.php
+返回格式：json
+请求方式：get/post
+请求示例：https://api.66mz8.com/api/zto.php?num=20191019117336
+
+短网址链接生成
+长网址缩短新浪、腾讯短网址服务
+示例代码
+接口地址：https://api.66mz8.com/api/dwz.php
+返回格式：json
+请求方式：get/post
+请求示例：https://api.66mz8.com/api/dwz.php?api=sinaurl&url=qrpay.66mz8.com
+
+新浪短网址还原
+新浪短网址还原长网址服务
+示例代码
+接口地址：https://api.66mz8.com/api/long.php
+返回格式：json
+请求方式：get/post
+请求示例：https://api.66mz8.com/api/long.php?url=http://t.cn/EGAKeyC
+
+免费邮件发送
+免费公共邮件接口，请勿频繁发送垃圾邮件。
+示例代码
+接口地址：https://api.66mz8.com/api/mail.php
+返回格式：json
+请求方式：get/post
+请求示例：https://api.66mz8.com/api/mail.php?address=1875391011@qq.com&name=你好,世界&certno=这是一封测试邮件！
+请求参数说明：
+名称	必填	类型	说明
+ 	address	是	string	收件人邮箱地址
+ 	name	是	string	邮件标题
+ 	certno	是	string	邮件内容(支持HTML格式)
+
+随机语录（一言）
+随机获取一句经典语录（一言）
+示例代码
+接口地址：
+常规用法：https://api.66mz8.com/api/hitokoto.php（返回随机一言）
+ＪＳ用法：https://api.66mz8.com/api/hitokoto.php?code=js（返回 js 格式）
+返回格式：json
+请求方式：get/post
+请求示例：
+ＪＳ调用：<script data-cfasync="false" src="https://api.66mz8.com/api/hitokoto.php?code=js"></script>
+ＪＳ输出：<div id="hitokoto"></div>   <script>hitokoto()</script>
+
+历史上的今天
+获取全部历史上的今天@
+示例代码
+接口地址：https://api.66mz8.com/api/today.php
+返回格式：json
+请求方式：get/post
+请求示例：https://api.66mz8.com/api/today.php?format=json
+请求参数说明：
+名称	必填	类型	说明
+ 	format	否	js	以JS类型格式随机输出
+ 	format	否	json	获取全部历史上的今天
+返回参数说明：
+名称	类型	说明
+ 	code	string	返回的状态码
+ 	today	string	返回历史时间
+ 	content	string	返回历史事件
+
+必应壁纸美图
+获取今日必应首页壁纸美图图片
+示例代码
+接口地址：https://api.66mz8.com/api/bing.php
+返回格式：json/images
+请求方式：get/post
+请求示例：https://api.66mz8.com/api/bing.php?idx=0
+
+搜狗高清壁纸
+随机输出搜狗高清壁纸图片
+示例代码
+接口地址：https://api.66mz8.com/api/sougou.php
+返回格式：json/images
+请求方式：get/post
+请求示例：https://api.66mz8.com/api/sougou.php
+
+随机头像图片
+随机输出高清头像图片
+示例代码
+接口地址：https://api.66mz8.com/api/rand.pic.php
+返回格式：json/images
+请求方式：get/post
+请求示例：https://api.66mz8.com/api/rand.pic.php?type=女&return=json
+请求参数说明：
+名称	必填	类型	说明
+ 	type	是	string	选择输出分类[女|男|动漫]
+ 	return	否	string	选择输出格式[json|images]
+ 	
+淘宝买家秀
+随机输出淘宝买家秀福利图片
+示例代码
+接口地址：https://api.66mz8.com/api/taobaoimg.php
+返回格式：json/images
+请求方式：get/post
+请求示例：https://api.66mz8.com/api/taobaoimg.php?format=json
+请求参数说明：
+名称	必填	类型	说明
+ 	format	否	json	以JS类型格式输出
+ 	
+随机竖版图片
+随机输出竖版手机高清壁纸
+接口地址：https://api.66mz8.com/api/rand.img.php
+返回格式：json/images
+请求方式：get/post
+请求示例：https://api.66mz8.com/api/rand.img.php?type=壁纸&return=json
+请求参数说明：
+名称	必填	类型	说明
+ 	type	是	string	选择输出分类[美女|壁纸|性感|制服]
+ 	return	否	string	选择输出格式[json|images]
+ 	
+随机横版图片
+随机输出各种类型横版电脑高清壁纸
+接口地址：https://api.66mz8.com/api/rand.acg.php
+返回格式：json/images
+请求方式：get/post
+请求示例：https://api.66mz8.com/api/rand.acg.php?type=二次元&return=json
+请求参数说明：
+名称	必填	类型	说明
+ 	type	是	string	选择输出分类[美女|二次元|风景|menhera酱]
+ 	return	否	string	选择输出格式[json|images]
+
+全民K歌音乐解析
+将全民K歌歌曲解析下载下来
+接口地址：https://api.66mz8.com/api/kg.php
+返回格式：json
+请求方式：get/post
+请求示例：https://api.66mz8.com/api/kg.php?id=4cOd7z4cp2W1K4b5
+请求参数说明：
+名称	必填	类型	说明
+ 	id	是	string	全民K歌音乐ID，如：4cOd7z4cp2W1K4b5
+
+新浪图床上传接口
+新浪图片外链上传API接口
+接口地址：https://api.66mz8.com/api/sinaimg.php
+返回格式：json/text
+请求方式：get/post
+请求示例：https://api.66mz8.com/api/sinaimg.php?img=https://api.66mz8.com/assets/images/api.png
+请求参数说明：
+名称	必填	类型	说明
+ 	img	否	string	图片链接上传方式
+ 	file	否	string	文件流上传方式 必须为multipart
+ 	Filedata	否	string	上传文件信息
+ 	
+图床程序：http://pic.66mz8.com
+
+ICP备案查询
+根据域名查询ICP备案号及备案信息
+接口地址：https://api.66mz8.com/api/icp.php
+返回格式：json
+请求方式：get/post
+请求示例：https://api.66mz8.com/api/icp.php?domain=www.qq.com
+
+网址ICO站标
+根据域名查询获取目标网站ICO站标
+接口地址：https://api.66mz8.com/api/ico.php
+返回格式：json
+请求方式：get/post
+请求示例：https://api.66mz8.com/api/ico.php?url=http://www.baidu.com
+
+百度收录量查询
+根据域名查询百度收录信息
+接口地址：https://api.66mz8.com/api/baidu.php
+返回格式：json
+请求方式：get/post
+请求示例：https://api.66mz8.com/api/baidu.php?url=qrpay.66mz8.com
+
+域名注册查询
+查询域名是否被/可注册
+接口地址：https://api.66mz8.com/api/dmreg.php
+返回格式：json
+请求方式：get/post
+请求示例：https://api.66mz8.com/api/dmreg.php?url=baidu.com
+请求参数说明：
+名称	必填	类型	说明
+ 	url	是	string	需要查询的域名
+
+域名报毒检测
+查询站点是否被腾讯管家拦截
+接口地址：https://api.66mz8.com/api/check.php
+返回格式：json
+请求方式：get/post
+请求示例：https://api.66mz8.com/api/check.php?url=qrpay.66mz8.com
+
+查询域名是否被墙
+检测域名是否被墙，国内是否能正常打开
+接口地址：https://api.66mz8.com/api/qiang.php
+返回格式：json
+请求方式：get/post
+请求示例：https://api.66mz8.com/api/qiang.php?url=qrpay.66mz8.com
+
+电脑在线状态查询
+查询对方好友电脑在线状态
+接口地址：https://api.66mz8.com/api/qqcode.php
+返回格式：json
+请求方式：get/post
+请求示例：https://api.66mz8.com/api/qqcode.php?qq=1875391011
+
+获取目标网站标题
+获取目标网站标题，并返回
+接口地址：https://api.66mz8.com/api/title.php
+返回格式：json
+请求方式：get/post
+请求示例：https://api.66mz8.com/api/title.php?url=www.baidu.com
+
+获取网站meta
+获取目标网站meta，并返回
+接口地址：https://api.66mz8.com/api/meta.php
+返回格式：json
+请求方式：get/post
+请求示例：https://api.66mz8.com/api/meta.php?url=http://api.66mz8.com
+
+IP签名档
+美化用户来访页面签名档
+接口地址：https://api.66mz8.com/api/ip.pic.php
+返回格式：json/images
+请求方式：get/post
+请求示例：https://api.66mz8.com/api/ip.pic.php?s=6Ieq5a6a5LmJ5YaF5a65
+请求参数说明：
+名称	必填	类型	说明
+ 	s	否	string	自定义内容（BASE64加密）
+
+获取访问系统信息
+获取用户访问系统信息档
+接口地址：https://api.66mz8.com/api/ip.info.php
+返回格式：json
+请求方式：get/post
+请求示例：https://api.66mz8.com/api/ip.info.php
+
+网页提示跳转
+来路验证和跳转提示功能的页面
+接口地址：https://api.66mz8.com/api/go.php
+返回格式：json
+请求方式：get/post
+请求示例：https://api.66mz8.com/api/go.php?url=qrpay.66mz8.com
+
+=====================================
+
+末日API:http://moriapi.two3.cn/
+本站客服: 2970924584
+温馨提示: 末日API只能用于QR,晨风,SQ
+
+王者荣耀英雄信息
+http://moriapi.two3.cn/finish/into/wzry.php?name=英雄完整名字
+
+王者荣耀英雄出装
+http://moriapi.two3.cn/finish/into/wzry1.php?msg=英雄完整名字
+
+解析抖音视频
+http://moriapi.two3.cn/finish/into/jxdysp.php?url=抖音的复制链接粘贴到这
+
+植物识别
+http://moriapi.two3.cn/finish/into/zhiwushibie.php?msg=植物图片链接
+
+百思不得姐段子
+http://moriapi.two3.cn/finish/into/bdj.php
+
+酷狗歌词
+http://moriapi.two3.cn/finish/into/kugougc.php?msg=歌名&n=1&d=1
+有n=数字，d=1、2、3为歌词，无n为列表
+
+空间访客数量查询
+http://moriapi.two3.cn/finish/into/fangke.php?qq=QQ号
+
+腾讯电影
+http://moriapi.two3.cn/finish/into/dxdy.php?msg=电影名称&n=多选序号
+
+语音
+http://moriapi.two3.cn/finish/into/yuyin.php?msg=内容
+
+搜图
+http://moriapi.two3.cn/finish/into/st.php?msg=内容
+
+农历
+http://moriapi.two3.cn/finish/into/nl.php
+
+漫画
+http://moriapi.two3.cn/finish/into/dxmh.php?msg=漫画名称&n=1
+无n则返回搜索后的列表
+有n=数字为选
+
+小说
+http://moriapi.two3.cn/finish/into/dxxs.php?msg=小说名称&n=1
+无n则返回搜索后的列表
+有n=数字为选
+
+诗词
+http://moriapi.two3.cn/finish/into/shici.php?msg=诗词作者
+
+美女图
+http://moriapi.two3.cn/finish/into/meinvtu.php?m=0
+m值为1时只返回链接，m为其他值时返回图片和类型
+
+QQ音乐
+http://moriapi.two3.cn/finish/into/qqdg.php?msg=搜索内容&n=多选序号
+
+QQmv
+http://moriapi.two3.cn/finish/into/dxmv.php?msg=呵呵&n=1
+有n=数字为选，无n则为列表
+
+QQ天气
+http://moriapi.two3.cn/finish/into/qqtq.php?msg=城市名称
+
+天气预报
+http://moriapi.two3.cn/finish/into/tq.php?msg=城市名称
+
+天气查询
+http://moriapi.two3.cn/finish/into/tqcx.php?location=城市名称
+
+汉字查询
+http://moriapi.two3.cn/finish/into/hycx.php?word=汉字内容
+
+有道翻译
+http://moriapi.two3.cn/finish/into/fanyi.php?msg=翻译内容
+
+翻译接口
+http://moriapi.two3.cn/finish/into/fy.php?info=翻译内容
+
+垃圾分类
+http://moriapi.two3.cn/finish/into/ljfl.php?msg=垃圾名称
+
+垃圾分类2
+http://moriapi.two3.cn/finish/into/ljfl2.php?rubbish=垃圾名称
+
+笑话接口
+http://moriapi.two3.cn/finish/into/xh.php
+
+小刀娱乐网
+http://moriapi.two3.cn/xd.php?a=搜索内容&b=多选序号
+
+古诗搜索
+http://moriapi.two3.cn/finish/into/gs.php?a=搜索内容&b=多选序号
+
+免费影视
+http://moriapi.two3.cn/finish/into/ys.php?a=搜索内容&b=多选序号
+
+精选头像{小妖精版}
+http://moriapi.two3.cn/finish/into/jxtx.php?m=搜索范围{搜索范围为0-43}
+
+应用搜索{应用宝}
+http://moriapi.two3.cn/finish/into/yyss.php?msg=应用名称&n=多选序列号
+
+360百科
+http://moriapi.two3.cn/finish/into/360bk.php?msg=搜的内容
+
+百度百科
+http://moriapi.two3.cn/finish/into/bk.php?msg=搜的内容
+
+base64
+加密
+http://moriapi.two3.cn/finish/into/base64jia.php?msg=内容
+解密
+http://moriapi.two3.cn/finish/into/base64jie.php?msg=内容
+
+md5
+http://moriapi.two3.cn/finish/into/md5.php?msg=内容
+
+百度翻译
+http://moriapi.two3.cn/finish/into/bdfy.php?from=被转换的语种&to=转换的语种&text=转换内容
+
+百度收录查询
+http://moriapi.two3.cn/finish/into/bdsl.php?url=域名
+
+哔哩哔哩搜索
+http://moriapi.two3.cn/finish/into/bilibili.php?a=搜索内容&b=多选序号
+
+哔哩哔哩随机
+http://moriapi.two3.cn/finish/into/bilibili1.php
+
+小说搜索
+http://moriapi.two3.cn/finish/into/xs.php?a=搜索内容&b=多选序号
+
+商品搜索
+http://moriapi.two3.cn/finish/into/sp.php?a=搜索内容&b=多选序号
+
+号码归属地
+http://moriapi.two3.cn/finish/into/gsd.php?tel=号码
+
+号码归属地1
+http://moriapi.two3.cn/finish/into/gsd1.php?id=号码
+
+号码归属地2
+http://moriapi.two3.cn/finish/into/gsd2.php?tel=号码
+
+QQ个性签名
+http://moriapi.two3.cn/finish/into/gxqm.php?msg=类型
+类型列表
+http://moriapi.two3.cn/finish/into/gxqm.php?msg=list
+
+QQ分组
+http://moriapi.two3.cn/finish/into/qqfz.php?msg=类型
+类型列表
+http://moriapi.two3.cn/finish/into/qqfz.php?msg=list
+
+QQ头像
+http://moriapi.two3.cn/finish/into/qqtx.php?msg=类型
+类型列表
+http://moriapi.two3.cn/finish/into/qqtx.php?msg=list
+
+QQ信息
+http://moriapi.two3.cn/finish/into/qqxx.php?qq=QQ号
+
+QQ信息获取1号接口
+http://moriapi.two3.cn/finish/into/qqxx1.php?qq=QQ号
+
+QQ等级查询
+http://moriapi.two3.cn/finish/into/qqdjcx.php?msg=QQ号
+
+QQ在线状态查询
+http://moriapi.two3.cn/finish/into/qqzxzt.php?qq=QQ号
+(只能检测2种状态1.电脑状态2.电脑离线)
+
+虎牙主播搜索
+http://moriapi.two3.cn/finish/into/hyzb.php?a=搜索内容&b=多选序号
+
+秒懂百科搜索
+http://moriapi.two3.cn/finish/into/md.php?a=搜索内容&b=多选序号
+
+QQJSON点歌
+http://moriapi.two3.cn/finish/into/jsondg.php?a=搜索内容&b=多选序号&id=1-3(1=>小屏，2=>大屏，3=>多屏
+
+星座运势
+http://moriapi.two3.cn/finish/into/xz.php?msg=xx座
+
+酷狗搜图
+http://moriapi.two3.cn/finish/into/kgst.php?msg=搜索内容
+
+360搜图
+http://moriapi.two3.cn/finish/into/360st.php?msg=搜索内容
+
+百度搜图
+http://moriapi.two3.cn/finish/into/bdst.php?msg=搜索内容
+
+快递物流
+http://moriapi.two3.cn/finish/into/kuaidi.php?
+
+快递物流2
+http://moriapi.two3.cn/finish/into/kuaidi2.php?num=物流单号
+
+快递物流3
+http://moriapi.two3.cn/finish/into/kd3.php?msg=物流单号
+
+快递物流4
+http://moriapi.two3.cn/finish/into/kd4.php?num=物流单号
+
+漫画搜索
+http://moriapi.two3.cn/finish/into/mh.php?a=搜索内容&b=多选序号
+
+小说搜索
+http://moriapi.two3.cn/finish/into/xs.php?a=搜索内容&b=多选序号
+
+图灵聊天
+http://moriapi.two3.cn/finish/into/lt.php?msg=聊天内容
+
+百度权重
+http://moriapi.two3.cn/finish/into/quanzhong.php?url=查询域名
+
+权重查询
+http://moriapi.two3.cn/finish/into/qz.php?url=查询域名
+
+斗鱼直播
+http://moriapi.two3.cn/finish/into/douyu.php?msg=PUBG&n=1
+
+YY直播
+YY脱口秀
+http://moriapi.two3.cn/api/YY.php?&id=1
+YY王者荣耀
+http://moriapi.two3.cn/api/YY.php?id=2
+YY绝地求生
+http://moriapi.two3.cn/api/YY.php?id=3
+YY音乐
+http://moriapi.two3.cn/api/YY.php?id=4
+YY舞蹈
+http://moriapi.two3.cn/api/YY.php?id=5
+YY户外
+http://moriapi.two3.cn/api/YY.php?id=6
+YYMC
+http://moriapi.two3.cn/api/YY.php?id=7
+YY体育
+http://moriapi.two3.cn/api/YY.php?id=8
+
+线报
+http://moriapi.two3.cn/finish/into/xb.php
+历史今天
+
+http://moriapi.two3.cn/finish/into/lsjt.php
+身份证信息
+
+http://moriapi.two3.cn/finish/into/sfz.php?num=身份证号码
+
+身份证信息1号接口
+http://moriapi.two3.cn/finish/into/sfz1.php?msg=身份证号码
+
+随机颜色
+http://moriapi.two3.cn/finish/into/randcolor.php
+
+QQJSON小屏随机歌曲
+巅峰榜 · 热歌
+http://moriapi.two3.cn/finish/into/qqsj_json.php?a=1&id=1
+巅峰榜 · 流行
+http://moriapi.two3.cn/finish/into/qqsj_json.php?a=2&id=1
+巅峰榜 · 新歌
+http://moriapi.two3.cn/finish/into/qqsj_json.php?a=3&id=1
+巅峰榜 · 明日
+http://moriapi.two3.cn/finish/into/qqsj_json.php?a=4&id=1
+巅峰榜 · 说唱
+http://moriapi.two3.cn/finish/into/qqsj_json.php?a=5&id=1
+巅峰榜 · 声音
+http://moriapi.two3.cn/finish/into/qqsj_json.php?a=6&id=1
+巅峰榜 · 网络
+http://moriapi.two3.cn/finish/into/qqsj_json.php?a=7&id=1
+巅峰榜 · 内地
+http://moriapi.two3.cn/finish/into/qqsj_json.php?a=8&id=1
+巅峰榜 · 港台
+http://moriapi.two3.cn/finish/into/qqsj_json.php?a=9&id=1
+巅峰榜 · 欧美
+http://moriapi.two3.cn/finish/into/qqsj_json.php?a=10&id=1
+巅峰榜 · 韩国
+http://moriapi.two3.cn/finish/into/qqsj_json.php?a=11&id=1
+巅峰榜 · 日本
+http://moriapi.two3.cn/finish/into/qqsj_json.php?a=12&id=1
+巅峰榜 · 人气
+http://moriapi.two3.cn/finish/into/qqsj_json.php?a=13&id=1
+巅峰榜 · 电音
+http://moriapi.two3.cn/finish/into/qqsj_json.php?a=14&id=1
+
+QQSJON大屏随机歌曲
+巅峰榜 · 热歌
+http://moriapi.two3.cn/finish/into/qqsj_json.php?a=1&id=2
+巅峰榜 · 流行
+http://moriapi.two3.cn/finish/into/qqsj_json.php?a=2&id=2
+巅峰榜 · 新歌
+http://moriapi.two3.cn/finish/into/qqsj_json.php?a=3&id=2
+巅峰榜 · 明日
+http://moriapi.two3.cn/finish/into/qqsj_json.php?a=4&id=2
+巅峰榜 · 说唱
+http://moriapi.two3.cn/finish/into/qqsj_json.php?a=5&id=2
+巅峰榜 · 声音
+http://moriapi.two3.cn/finish/into/qqsj_json.php?a=6&id=2
+巅峰榜 · 网络
+http://moriapi.two3.cn/finish/into/qqsj_json.php?a=7&id=2
+巅峰榜 · 内地
+http://moriapi.two3.cn/finish/into/qqsj_json.php?a=8&id=2
+巅峰榜 · 港台
+http://moriapi.two3.cn/finish/into/qqsj_json.php?a=9&id=2
+巅峰榜 · 欧美
+http://moriapi.two3.cn/finish/into/qqsj_json.php?a=10&id=2
+巅峰榜 · 韩国
+http://moriapi.two3.cn/finish/into/qqsj_json.php?a=11&id=2
+巅峰榜 · 日本
+http://moriapi.two3.cn/finish/into/qqsj_json.php?a=12&id=2
+巅峰榜 · 人气
+http://moriapi.two3.cn/finish/into/qqsj_json.php?a=13&id=2
+巅峰榜 · 电音
+http://moriapi.two3.cn/finish/into/qqsj_json.php?a=14&id=2
+
+QQJSON多屏随机歌曲
+巅峰榜 · 热歌
+http://moriapi.two3.cn/finish/into/qqsj_json.php?a=1&id=3
+巅峰榜 · 流行
+http://moriapi.two3.cn/finish/into/qqsj_json.php?a=2&id=3
+巅峰榜 · 新歌
+http://moriapi.two3.cn/finish/into/qqsj_json.php?a=3&id=3
+巅峰榜 · 明日
+http://moriapi.two3.cn/finish/into/qqsj_json.php?a=4&id=3
+巅峰榜 · 说唱
+http://moriapi.two3.cn/finish/into/qqsj_json.php?a=5&id=3
+巅峰榜 · 声音
+http://moriapi.two3.cn/finish/into/qqsj_json.php?a=6&id=3
+巅峰榜 · 网络
+http://moriapi.two3.cn/finish/into/qqsj_json.php?a=7&id=3
+巅峰榜 · 内地
+http://moriapi.two3.cn/finish/into/qqsj_json.php?a=8&id=3
+巅峰榜 · 港台
+http://moriapi.two3.cn/finish/into/qqsj_json.php?a=9&id=3
+巅峰榜 · 欧美
+http://moriapi.two3.cn/finish/into/qqsj_json.php?a=10&id=3
+巅峰榜 · 韩国
+http://moriapi.two3.cn/finish/into/qqsj_json.php?a=11&id=3
+巅峰榜 · 日本
+http://moriapi.two3.cn/finish/into/qqsj_json.php?a=12&id=3
+巅峰榜 · 人气
+http://moriapi.two3.cn/finish/into/qqsj_json.php?a=13&id=3
+巅峰榜 · 电音
+http://moriapi.two3.cn/finish/into/qqsj_json.php?a=14&id=3
+
+酷六视频
+娱乐视频
+http://moriapi.two3.cn/finish/into/k6sp.php?id=娱乐视频
+游戏视频
+http://moriapi.two3.cn/finish/into/k6sp.php?id=游戏视频
+音乐视频
+http://moriapi.two3.cn/finish/into/k6sp.php?id=音乐视频
+社会视频
+http://moriapi.two3.cn/finish/into/k6sp.php?id=社会视频
+文化视频
+http://moriapi.two3.cn/finish/into/k6sp.php?id=文化视频
+搞笑视频
+http://moriapi.two3.cn/finish/into/k6sp.php?id=搞笑视频
+
+BIUBIU视频
+http://moriapi.two3.cn/finish/into/biubiu.php
+
+腾讯视频搜索
+http://moriapi.two3.cn/finish/into/dy.php?apzh=12345665&msg=视频名字
+
+酷狗音乐搜索
+http://moriapi.two3.cn/finish/into/kgdg.php?a=搜索内容&b=多选序号
+
+网易音乐搜索
+http://moriapi.two3.cn/finish/into/wydg.php?a=搜索内容&b=多选序号
+
+Ping
+http://moriapi.two3.cn/finish/into/ping.php?msg=网站地址
+
+自制Ping
+http://moriapi.two3.cn/finish/into/ping1.php?msg=网站地址
+
+现在时间
+http://moriapi.two3.cn/finish/into/xzsj.php
+
+斗图制作
+http://moriapi.two3.cn/finish/into/dt.php?msg=斗图内容
+
+随机语录
+http://moriapi.two3.cn/finish/into/sjyl.php
+
+随机语录2
+http://moriapi.two3.cn/finish/into/sjyl2.php
+
+随机图片
+http://moriapi.two3.cn/finish/into/sjtp.php
+
+随机图片
+http://moriapi.two3.cn/finish/into/sjtp.php?m=序号
+随机序号为0-362
+
+歌词查询
+http://moriapi.two3.cn/finish/into/gc.php?msg=歌曲名
+
+获取请求标识
+http://moriapi.two3.cn/finish/into/bs.php
+
+获取访问者IP
+http://moriapi.two3.cn/finish/into/ip.php
+
+查询IP地址
+http://moriapi.two3.cn/finish/into/cxip.php?ip=IP地址
+
+索米短网址生成
+http://moriapi.two3.cn/finish/into/smdwz.php?url=网站地址
+
+======================================
+
+天星API
+
+随机语录
+http://t-api.xyz/yan/api.php
+
+======================================
+
+小鹏API:http://sqv6.com/api/
+
+欢迎来到小鹏API
+
+公告
+
+1、本站接口小鹏提供接口，使用者不能借此获取非法利益。
+2、请勿用于非法活动，此接口仅供娱乐，不作任何商业用途。
+3、如需定制已有接口，请联系小鹏
+如继续使用接口，那将默认您已阅读并同意免责声明
+
+你是我的...太阳，虚假的太阳，你燃尽了自己照亮了前路，你是我唯一的光芒。
+
+网页机器人
+http://sqv6.com/wyjqr
+
+机器人接口
+http://sqv6.com/jqr/jqr.php?dqbb=1.3&qh=[群号]&jqr=[机器人QQ号]&zh=[QQ号]&nr=[内容]
+
+写入统计接口
+http://sqv6.com/api/tj/tj.php?id=[ID]&msg=[统计名称]
+
+读取统计接口
+http://sqv6.com/api/tj/[ID].txt
+
+代刷网接口
+http://sqv6.com/api/dsw/dsw.php?url=[代刷网网址]&tid=[TID]&ts=100名片赞&zh=[QQ号]
+
+扫描代刷网接口
+http://sqv6.com/api/dsw/tid.php?url=[代刷网网址]&jg=0.00
+
+领取名片赞接口
+http://sqv6.com/api/dsw/mpz/mpz.php?id=[ID]&sl=[数量]&zh=[QQ号]
+
+记录窥屏接口，需要用/xml或json
+http://sqv6.com/api/kp/kp.php?msg=[随机数]
+
+记录窥屏接口，不需要用/xml或json
+http://sqv6.com/api/kp/kp1.php?zh=573456737&msg=[随机数]
+
+读取窥屏接口
+http://sqv6.com/api/kp/kp/[随机数].txt
+
+邮箱接口
+http://sqv6.com/api/yx/mfyx.php?jsyx=[接收邮箱]&bt=[标题]&nr=[内容]
+
+百度天气接口
+http://sqv6.com/api/api/bdtq.php?msg=[地名]
+
+百度搜图接口
+http://sqv6.com/api/api/bdst.php?msg=[名称]
+
+随机颜色接口
+http://sqv6.com/api/api/sjys.php
+
+随机一言接口
+http://sqv6.com/api/sjyy/index.php
+
+QQ昵称接口
+http://sqv6.com/api/api/qqnc.php?zh=[QQ号]
+
+QQ等级接口，不用担心速度
+http://sqv6.com/api/api/qqdj.php?zh=[QQ号]
+
+QQ头像接口，不需要访问
+http://sqv6.com/api/api/qqtx.php?zh=[QQ号]
+
+QQ名片赞接口，不用担心速度
+http://sqv6.com/api/api/qqmpz.php?zh=[QQ号]
+
+QQ性别接口，不用担心速度
+http://sqv6.com/api/api/qqxb.php?zh=[QQ号]
+
+QQ评估接口
+http://sqv6.com/api/api/qqpg.php?zh=[QQ号]
+
+QQ邮箱接口，需要开启IMAP/SMTP服务
+http://sqv6.com/api/yx/qqyx.php?fsyx=[发送邮箱账号]&yxmm=[邮箱授权码]&jsyx=[接收邮箱]&bt=[标题]&nr=[内容]
+
+139邮箱接口，需要开启IMAP/SMTP服务
+http://xpli.cn/api/yx/139yx.php?fsyx=[发送邮箱账号]&yxmm=[邮箱密码]&jsyx=[接收邮箱]&bt=[标题]&nr=[内容]
+
+ping接口
+http://sqv6.com/api/api/ping.php?msg=[域名/ip]
+
+获取ip接口
+http://sqv6.com/api/api/ip.php
+
+查询ip接口
+http://sqv6.com/api/api/ip.php?ip=[IP]
+
+短网址接口，“维护中”
+http://sqv6.com/api/api/dwz.php?url=[网址]
+
+截取字符接口
+http://sqv6.com/api/zf/jqzf.php?nr=[全部内容]&zw=[左文]&yw=[右文]
+
+字符替换接口
+http://sqv6.com/api/zf/zfth.php?nr=[全部内容]&th=[替换]&th1=[替换1]
+
+截取前边接口
+http://sqv6.com/api/zf/jqqb.php?nr=[全部内容]&zs=[字数]
+
+截取后边接口
+http://sqv6.com/api/zf/jqhb.php?nr=[全部内容]&zs=[字数]
+
+创建卡密接口
+http://sqv6.com/api/km/cjkm.php?km=[卡密]
+
+使用卡密接口
+http://sqv6.com/api/km/sykm.php?km=[卡密]
+
+多啦A梦图片
+http://sqv6.com/api/tp/dlam/1-56.jpg
+
+名侦探柯南图片
+http://sqv6.com/api/tp/mztkn/1-30.jpg
+
+加菲猫图片
+http://sqv6.com/api/tp/jfm/1-24.jpg
+
+时间年月日接口
+http://sqv6.com/api/sj/sjnyr.php
+
+时间时分秒接口
+http://sqv6.com/api/sj/sjsfm.php
+
+======================================
+
+叶少API
+叶少QQ:744290894
+
+酷我音乐多选	http://yeshao520.com/heheapi/kuwo.php?a=歌名&b=list&c=序号
+查看调试
+
+网易云随机音乐	http://yeshao520.com/heheapi/wysj.php
+查看调试
+
+免费影视网	http://yeshao520.com/heheapi/mfys.php?msg=电影名
+查看调试
+
+已添加解析接口免费看爱奇艺使用方法:&a=内容返回列表&b=页数&c=wz判断&d=数字为选择内容返回	
+http://yeshao520.com/heheapi/aiqiyi.php?a=搜索内容&b=页数&c=wz&d=序号(选择)
+查看调试
+
+多选小说可以直接QQ返回小说内容使用方法:a=小说名返回列表b=list判断c=序号返回列表第几个内容后面不用也可以前面也可以但是不能看每一章小说可以返回小说信息和链接d=list1判断e=序号这个是返回小说页数的一页有20章等于1是返回1到20章2为21到40章f=list2判断g=序号这是返回第几章的内容等于1为第一章小说内容不能全部返回内容太多后面加个h=序号这个是返回每一章小说的段落由于不能一章全部返回所以分了段落总共20段调用即可	
+http://yeshao520.com/heheapi/xiaoshuo.php?a=小说名&b=list&c=序号
+查看调试
+
+快手搜索使用方法:a=主播返回列表b=list判断&c=序号返回主播信息&d=list1判断&e=序号返回主播作品1为最新的作品	
+http://yeshao520.com/heheapi/ks.php?a=主播&b=list&c=序号&d=list1&e=序号
+查看调试
+
+多选漫画	http://yeshao520.com/heheapi/manhua.php?a=漫画名&b=list&c=序号
+查看调试
+
+咪咕音乐多选点歌	http://yeshao520.com/heheapi/migu.php?a=歌名&b=list&c=序号
+查看调试
+
+jsonQQ随机音乐	http://yeshao520.com/heheapi/sjyy.php
+查看调试
+
+酷狗音乐多选	http://yeshao520.com/heheapi/kugou.php?a=歌名&b=list&c=序号
+查看调试
+
+百度百科	http://yeshao520.com/heheapi/baike.php?msg=百科内
+查看调试
+
+json天气	http://yeshao520.com/heheapi/jsontq.php?msg=城市
+查看调试
+
+领取名片赞	http://yeshao520.com/heheapi/mpz.php?msg=QQ号
+查看调试
+
+软件下载	http://yeshao520.com/heheapi/xiazai.php?a=搜索内容&b=list&c=序号
+查看调试
+
+哔哩哔哩	http://yeshao520.com/heheapi/bilibili.php?a=搜索内容&b=文字(wz)/卡片(xml)&c=序号
+查看调试
+
+网易音乐多选点歌	http://yeshao520.com/heheapi/wyyy.php?a=歌名&b=list&c=序号
+查看调试
+
+多种翻译	http://yeshao520.com/heheapi/fanyi.php?a=翻译内容&b=翻译语言
+查看调试
+
+快递查询	http://yeshao520.com/heheapi/kuaidi.php?msg=快递单号
+查看调试
+
+MV多选	http://yeshao520.com/heheapi/mv.php?a=mv名&b=list&c=序号
+查看调试
+
+QQ音乐多选点歌	http://yeshao520.com/heheapi/qqyy.php?a=歌名&b=(xml/json)&c=序号
+查看调试
+
+斗图搜索	http://yeshao520.com/heheapi/doutu.php?msg=斗图内容
+查看调试
+
+视频解析可免费看付费电影和vip电影	
+http://yeshao520.com/heheapi/shipingjiexi.php?msg=视频链接
+查看调试
+
+全民K歌使用方法:http://yeshao520.com/heheapi/qmkg.php?a=歌曲链接&b=1返回作品信息&b=2返回xml收听作品&b=3返回歌曲链接	
+http://yeshao520.com/heheapi/qmkg.php?a=歌曲链接&b=序号
+查看调试
+
+二维码可以换颜色	http://yeshao520.com/heheapi/ewm.php?a=内容&b=颜色代码
+查看调试
+
+QQ头像	http://yeshao520.com/heheapi/qqtoxiang.php?msg=头像类型
+查看调试
+
+QQ分组	http://yeshao520.com/heheapi/qqfezu.php?msg=分组类型
+查看调试
+
+以图识图	http://yeshao520.com/heheapi/shitu.php?msg=图片链接
+查看调试
+
+网盘搜索使用方法：http://yeshao520.com/heheapi/wpss.php?a=这段是返回列表/http://yeshao520.com/heheapi/wpss.php?a=内容&b=list&c=序号这段是选择有时没返回是内容太多直接选序号返回下载链接即可	
+http://yeshao520.com/heheapi/wpss.php?a=搜索内容&b=list&c=序号
+查看调试
+
+情侣网名	http://yeshao520.com/heheapi/qlwm.php
+查看调试
+
+文字聊天	http://yeshao520.com/heheapi/liaotian.php?msg=聊天内容
+查看调试
+
+语音聊天	http://yeshao520.com/heheapi/yylt.php?msg=聊天内容
+查看调试
+
+歌词歌词接口分3段调用即可	http://yeshao520.com/heheapi/wygc.php?a=歌名&b=(1-3)
+查看调试
+
+荧光艺术字	http://yeshao520.com/heheapi/ygysz.php?id=(1-8)&msg=内容
+查看调试
+
+我的IP信息QQ里打开查看更详细	http://yeshao520.com/heheapixinxi.php
+查看调试
+
+在线Ping检测工具（实现在线Ping网址或者IP地址,获取网址URL真实IP地址）1为单ping2为多ping:	
+http://yeshao520.com/heheapi/pi.php?a=域名&b=1/2
+查看调试
+
+视频解析可免费看付费电影和vip电影	
+http://yeshao520.com/heheapi/shipingjiexi.php?msg=视频链接
+查看调试
+
+1：美臀2：美胸3：美腿4：爆乳5：非主流6：黑丝7：制服8：比基尼9：写真10：清纯11：浴室12：诱惑13：女优14：90后15：内衣16：蕾丝17：唯美 18：自拍19：女神 美女写真	http://yeshao520.com/heheapi/mnxz.php?msg=数字
+查看调试
+
+360搜图	http://yeshao520.com/heheapi/360.php?msg=内容
+查看调试
+
+花瓣搜图	http://yeshao520.com/heheapi/huaban.php?msg=内容
+查看调试
+
+百度搜图	http://yeshao520.com/heheapi/baidu.php?msg=内容
+查看调试
+
+搜狗搜图	http://yeshao520.com/heheapi/sougou.php?msg=内容
+查看调试
+
+斗鱼直播	http://yeshao520.com/heheapi/douyu.php?msg=主播名
+查看调试
+
+json点歌1为小屏2为大屏3为多屏	
+http://yeshao520.com/heheapi/json.php?a=歌名&b=(1-3)
+查看调试
+
+心理FM	http://yeshao520.com/heheapi/xinlifm.php
+查看调试
+
+百思不得姐视频	http://yeshao520.com/heheapi/baisibudejie.php
+查看调试
+
+热舞视频	http://yeshao520.com/heheapi/rewushipin.php
+查看调试
+
+高清动漫随机图	http://yeshao520.com/heheapi/dmsjt.php
+查看调试
+
+唯美心形表白	http://yeshao520.com/heheapi/xinxingbiaobai.php?a=1-7&b=内容
+查看调试
+
+星座运势	http://yeshao520.com/heheapi/xingzuo.php?msg=星座
+查看调试
+
+酷狗mv	http://yeshao520.com/heheapi/kgmv.php?msg=歌名
+查看调试
+
+铃声	http://yeshao520.com/heheapi/lingsheng.php?msg=歌名
+查看调试
+
+历史上的今天	http://yeshao520.com/heheapi/lsjt.php
+查看调试
+
+酷6视频	http://yeshao520.com/heheapi/k6sp.php
+查看调试
+
+游戏视频	http://yeshao520.com/heheapi/yxsp.php
+查看调试
+
+音乐视频	http://yeshao520.com/heheapi/yysp.php
+查看调试
+
+文化视频	http://yeshao520.com/heheapi/whsp.php
+查看调试
+
+社会视频	http://yeshao520.com/heheapi/shsp.php
+查看调试
+
+搞笑视频	http://yeshao520.com/heheapi/gxsp.php
+查看调试
+
+娱乐视频	http://yeshao520.com/heheapi/ylsp.php
+查看调试
+
+心情短语	http://yeshao520.com/heheapi/xqdy.php
+查看调试
+
+小品	http://yeshao520.com/heheapi/xiaopin.php
+查看调试
+
+天天快报	http://yeshao520.com/heheapi/ttkb.php
+
+查看调试
+人品	http://yeshao520.com/heheapi/renpin.php?msg=内容
+查看调试
+
+base64加密	http://yeshao520.com/heheapi/base64jiami.php?msg=内容
+查看调试
+
+base64解密	http://yeshao520.com/heheapi/base64jiemi.php?msg=内容
+查看调试
+
+ip查询	http://yeshao520.com/heheapi/ip.php?msg=ip地址
+查看调试
+
+诗词	http://yeshao520.com/heheapi/shici.php
+查看调试
+
+随机颜色	http://yeshao520.com/heheapi/sjys.php
+查看调试
+
+音悦台	http://yeshao520.com/heheapi/yinyuetai.php?msg=内容
+查看调试
+
+虎牙直播	http://yeshao520.com/heheapi/huya.php?msg=主播名
+查看调试
+
+名人名言	http://yeshao520.com/heheapi/mingyan.php
+查看调试
+
+姓名配对	http://yeshao520.com/heheapi/xmpd.php?msg=末日和冰云
+查看调试
+
+属相	http://yeshao520.com/heheapi/shuxiang.php?msg=年份
+查看调试
+
+签名	http://yeshao520.com/heheapi/qianming.php?msg=内容&b=(1-4)
+查看调试
+
+举牌	http://yeshao520.com/heheapi/jupai.php?msg=内容
+查看调试
+
+防红接口	http://yeshao520.com/heheapi/fh.php?msg=链接
+查看调试
+
+趣图	http://yeshao520.com/heheapi/qutu.php
+查看调试
+
+腾讯电影	http://yeshao520.com/heheapi/dianying.php?msg=电影名
+查看调试
+
+藏头诗	http://yeshao520.com/heheapi/cts.php?msg=内容
+查看调试
+
+卡片天气	http://yeshao520.com/heheapi/tianqi.php?msg=城市
+查看调试
+
+ping	http://yeshao520.com/heheapi/ping.php?ip=域名
+查看调试
+
+笑话	http://yeshao520.com/heheapi/xiaohua.php
+查看调试
+
+名片赞查询	http://yeshao520.com/heheapi/mingpianzan.php?msg=QQ号
+查看调试
+
+故事	http://yeshao520.com/heheapi/gushi.php
+查看调试
+
+绕口令	http://yeshao520.com/heheapi/raokoling.php
+查看调试
+
+汉字转拼音	http://yeshao520.com/heheapi/pingying.php?msg=内容
+查看调试
+
+歇后语	http://yeshao520.com/heheapi/xiehoyu.php
+查看调试
+
+脑筋急转弯	http://yeshao520.com/heheapi/njjzw.php
+查看调试
+
+一言	http://yeshao520.com/heheapi/yiyan.php
+查看调试
+
+当前时间	http://yeshao520.com/heheapi/baoshi.php
+查看调试
+
+顺口溜	http://yeshao520.com/heheapi/shunkoliu.php
+查看调试
+
+QQ凶吉	http://yeshao520.com/heheapi/qqxioji.php?msg=QQ号
+查看调试
+
+md5加密	http://yeshao520.com/heheapi/md5.php?msg=加密内容
+查看调试
+
+手机归属地	http://yeshao520.com/heheapi/shojiguishudi.php?msg=手机号
+查看调试
+
+网易点歌多选	http://yeshao520.com/heheapi/wydg.php?a=歌名&list&b=(1-10)
+查看调试
+
+身份证	http://yeshao520.com/heheapi/sfz.php?msg=身份证号码
+查看调试
+
+短网址	http://yeshao520.com/heheapi/dwz.php?msg=链接
+查看调试
+
+快手视频	http://yeshao520.com/heheapi/kuaisho.php
+查看调试
+
+情侣手腕纹身:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=3&a=内容&b=内容
+查看调试
+
+性感纹身:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=1&a=内容
+查看调试
+
+李钟硕脸上纹身:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=2&a=内容
+查看调试
+
+蒙蔽双眼表情:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=4&a=内容
+查看调试
+
+减肥通知书:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=5&a=内容
+查看调试
+
+姓X的你给我出来:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=6&a=姓梁的你给我出来
+查看调试
+
+节约用水通知:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=7&a=内容
+查看调试
+
+福利彩票中奖通知:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=8&a=姓名&b=投注金额&c=中奖金额
+查看调试
+
+2018年重要宣誓:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=9&a=内容
+查看调试
+
+招对象通知:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=10&a=姓名&b=联系方式
+查看调试
+
+支付宝集五福:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=11&a=内容&b=集齐人数
+查看调试
+
+讨债通知书:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=12&a=内容
+查看调试
+
+最强大脑邀请函:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=13&a=内容
+查看调试
+
+最惨年会奖品:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=14&a=内容
+查看调试
+
+约炮反被包养:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=15&a=内容
+查看调试
+
+单身的原因:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=16&a=内容
+查看调试
+
+监狱风云恶搞:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=17&a=内容
+查看调试
+
+年末温馨提示:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=18&a=内容
+查看调试
+
+胖女孩求嫁:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=19&a=内容
+查看调试
+
+组成公式:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=20&a=内容
+查看调试
+
+黄鹤楼香烟定制版:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=21&a=内容&b=内容
+查看调试
+
+未来身价:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=22&a=内容
+查看调试
+
+烧香祈祷:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=23&a=内容
+查看调试
+
+福利彩票短信:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=24&a=内容
+查看调试
+
+你的梦中穷人:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=25&a=内容&b=内容
+查看调试
+
+向光棍致敬:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=26&a=内容
+查看调试
+
+我有辣条和酒:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=27&a=内容
+查看调试
+
+旺铺招租:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=28&a=内容
+查看调试
+
+美女举牌支持:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=29&a=内容
+查看调试
+
+买iPhoneX成功割肾:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=30&a=内容
+查看调试
+
+iPhone8发布会邀请函:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=31&a=内容
+查看调试
+
+胸部写字:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=32&a=内容
+查看调试
+
+开学灾难片:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=33&a=内容&b=内容
+查看调试
+
+身体最美味部分给你吃:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=34&a=内容
+查看调试
+
+手机来电:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=35&a=内容
+查看调试
+
+艳遇神丹:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=36&a=内容
+查看调试
+
+叫你别装逼:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=37&a=内容
+查看调试
+
+性感美女来约你:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=38&a=内容
+查看调试
+
+美团外卖装逼:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=39&a=内容
+查看调试
+
+百万单身险:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=40&a=内容
+查看调试
+
+约炮短袖:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=41&a=内容
+查看调试
+
+偷狗拘留通知书:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=42&a=内容
+查看调试
+
+压抑症诊断书:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=43&a=内容
+查看调试
+
+hellokitty定制版手枪:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=44&a=内容
+查看调试
+
+戒酒保证书:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=45&a=内容
+查看调试
+
+支付宝转账成功:http://yeshao520.com/heheapi/zhuangbi.php?key=123456&id=46&a=姓名&b=转账金额
+查看调试
+
+======================================
+
+小鑫API
+小鑫QQ:1569097443
+
+vip视频解析
+http://xaoxin.cn/api/vip/?url=视频地址
+
+QQ业务
+http://xaoxin.cn/api/qqyw.php?msg=QQ号
+
+百度天气
+http://xaoxin.cn/api/tq.php?msg=地名
+
+QQMV
+http://xaoxin.cn/api/mv.php?msg=歌名
+
+dsw扫描
+http://xaoxin.cn/api/sm.php?msg=网址
+
+随机笑话
+http://xaoxin.cn/api/xh.php
+
+多选商品
+http://xaoxin.cn/api/sp.php?a=商品
+
+QQ多选点歌列表
+http://xaoxin.cn/api/qqdg.php?a=歌名
+
+QQ多选点歌歌曲
+http://xaoxin.cn/api/qqdg.php?a=歌名&b=序号
+
+酷狗多选点歌列表
+http://xaoxin.cn/api/dxkg.php?a=歌名
+
+酷狗多选点歌歌曲
+http://xaoxin.cn/api/dxkg.php?a=歌名&b=序号
+
+多选网易点歌歌曲
+http://xaoxin.cn/api/dxwy.php?a=歌名
+
+哔哩哔哩
+http://xaoxin.cn/api/bilibili.php
+
+网址转卡片
+http://xaoxin.cn/api/card.php?url=内容
+
+生成二维码
+http://xaoxin.cn/api/qr/qr.php?url=文字或网址
+
+备案查询
+http://xaoxin.cn/api/bacx.php?msg=域名
+
+百度百科
+http://xaoxin.cn/api/bk.php?msg=内容
+
+触手直播
+http://xaoxin.cn/api/chushou.php?name=直播名
+
+多选腾讯电影列表
+http://xaoxin.cn/api/dy.php?msg=电影名称(选择后面加&n=序号
+
+天天快报
+http://xaoxin.cn/api/kb.php
+
+漫画
+http://xaoxin.cn/api/mh.php?msg=漫画名称
+
+发送邮件
+http://xaoxin.cn/api/email/email_api.php?email=收件邮箱&name=邮件标题&msg=内容
+
+手机归属地
+http://xaoxin.cn/api/gsd.php?tel=手机号
+
+跳转防红
+http://xaoxin.cn/api/fh.php?url=网站
+
+新浪短网址(url.cn)
+http://xaoxin.cn/api/dwz.php?url=网站
+
+随机颜色
+http://xaoxin.cn/api/color.php
+
+历史今天
+http://xaoxin.cn/api/ls.php
+
+爱站权重
+http://xaoxin.cn/api/qz.php?url=域名
+
+百度关键词
+http://xaoxin.cn/api/gjc.php?ym=域名&gjc=关键词
+
+百度收录
+http://xaoxin.cn/api/baidu.php?url=域名
+
+随机一言
+http://xaoxin.cn/api/yl.php
+
+百度搜图
+http://xaoxin.cn/api/st.php?msg=图片名称
+
+现在时间
+http://xaoxin.cn/api/xzsj.php
+
+文字聊天
+http://xaoxin.cn/api/lt.php?msg=聊天内容
+
+Base64解密
+http://xaoxin.cn/api/base64.php?msg=jiemi&jm=解密内容
+
+Base64加密
+http://xaoxin.cn/api/base64.php?msg=jiami&jm=加密内容
+
+MD5加密
+http://xaoxin.cn/api/md5.php?md5=加密内容
+
+必应每日图片
+http://xaoxin.cn/api/picture/bing.php
+
+动漫图片
+http://xaoxin.cn/api/picture/dm.php
+
+语音合成
+http://xaoxin.cn/api/audio.php?id=音原(1-30)&speed=语速(1-9)&volume=音量(1-9)&txt=内容
+txt必选，其他选填
+
+今日随机线报
+http://xaoxin.cn/api/xb.php
+
+索米短网址(suo.im)
+http://xaoxin.cn/api/suoimdwz.php?longurl=网站地址
+
+百度短网址(dwz.cn)
+http://xaoxin.cn/api/baidudwz.php?longurl=网站地址
+
+网站测速
+http://xaoxin.cn/api/sping.php?url=网站地址
+
+自制ping
+http://xaoxin.cn/api/ping1.php?host=网站域名
+
+金山词霸每日一句
+http://xaoxin.cn/api/jscbyy.php
+
+大写MD5加密
+http://xaoxin.cn/api/bigmd5.php?md5=加密内容
+
+ip地址查询
+http://xaoxin.cn/api/ip.php?ip=ip地址字串
+
+QQ估价
+http://xaoxin.cn/api/jiazhi.php?qq=QQ号
+
+今日随机线报列表
+http://xaoxin.cn/api/xb.php?msg=list
+
+sha1加密
+http://xaoxin.cn/api/sha1.php?sha1=加密内容
+
+crypt加密
+http://xaoxin.cn/api/crypt.php?crypt=加密内容
+
+QR授权查询
+http://xaoxin.cn/api/qr.php?robot=机器人QQ号
+
+二次元图片
+http://xaoxin.cn/api/picture/ecy.php
+
+360百科
+http://xaoxin.cn/api/360bk.php?msg=内容
+
+360搜图
+http://xaoxin.cn/api/360st.php?msg=内容
+
+搜狗搜图
+http://xaoxin.cn/api/sgst.php?msg=内容
+
+
+======================================
+
+顾宇API
+本站已运行: 353天15小时25分52秒
+QQ音乐排行榜	
+巅峰榜 · 热歌
+http://api.guyu520.club/qqtop.php?a=1&b=序号
+巅峰榜 · 流行
+http://api.guyu520.club/qqtop.php?a=2&b=序号
+巅峰榜 · 新歌
+http://api.guyu520.club/qqtop.php?a=3&b=序号
+巅峰榜 · 明日
+http://api.guyu520.club/qqtop.php?a=4&b=序号
+巅峰榜 · 好声
+http://api.guyu520.club/qqtop.php?a=5&b=序号
+巅峰榜 · 网络
+http://api.guyu520.club/qqtop.php?a=6&b=序号
+巅峰榜 · 内地
+http://api.guyu520.club/qqtop.php?a=7&b=序号
+巅峰榜 · 港台
+http://api.guyu520.club/qqtop.php?a=8&b=序号
+巅峰榜 · 欧美
+http://api.guyu520.club/qqtop.php?a=9&b=序号
+巅峰榜 · 韩国
+http://api.guyu520.club/qqtop.php?a=10&b=序号
+巅峰榜 · 日本
+http://api.guyu520.club/qqtop.php?a=11&b=序号
+
+新闻	http://api.guyu520.club/xw.php
+
+小刀娱乐网	http://api.guyu520.club/xd.php?a=搜索内容&b=多选序号
+
+古诗搜索	http://api.guyu520.club/poem.php?a=搜索内容&b=多选序号
+
+免费影视	http://api.guyu520.club/mfys.php?a=搜索内容&b=多选序号
+
+王者荣耀英雄信息	http://api.guyu520.club/wzry.php?name=英雄完整名字
+
+360百科	http://api.guyu520.club/360bk.php?msg=搜的内容
+
+百度百科	http://api.guyu520.club/bk.php?msg=搜的内容
+
+base64	加密
+http://api.guyu520.club/base64jia.php?msg=内容
+
+解密
+http://api.guyu520.club/base64jie.php?msg=内容
+
+md5	
+http://api.guyu520.club/md5.php?msg=内容
+百度翻译	http://api.guyu520.club/bdfy.php?from=被转换的语种&to=转换的语种&text=转换内容
+
+百度收录查询	http://api.guyu520.club/bdsl.php?url=域名
+
+哔哩哔哩搜索	http://api.guyu520.club/bilibili.php?a=搜索内容&b=多选序号
+
+小说搜索	http://api.guyu520.club/xs.php?a=搜索内容&b=多选序号
+
+商品搜索	http://api.guyu520.club/sp.php?a=搜索内容&b=多选序号
+
+号码归属地	http://api.guyu520.club/gsd.php?tel=号码
+
+QQ个性签名	http://api.guyu520.club/gxqm.php?msg=类型
+类型列表
+http://api.guyu520.club/gxqm.php?msg=list
+
+QQ签名	http://api.guyu520.club/qqqm.php?msg=类型
+类型列表
+http://api.guyu520.club/qqqm.php?msg=list
+
+QQ分组	http://api.guyu520.club/qqfz.php?msg=类型
+类型列表
+http://api.guyu520.club/qqfz.php?msg=list
+
+QQ头像	http://api.guyu520.club/qqtx.php?msg=类型
+类型列表
+http://api.guyu520.club/qqtx.php?msg=list
+
+虎牙主播搜索	http://api.guyu520.club/hyzb.php?a=搜索内容&b=多选序号
+
+秒懂百科搜索	http://api.guyu520.club/md.php?a=搜索内容&b=多选序号
+
+QQJSON点歌	http://api.guyu520.club/jsondg.php?a=搜索内容&b=多选序号&id=1-3(1=>小屏，2=>大屏，3=>多屏
+
+星座运势	http://api.guyu520.club/xz.php?msg=xx座
+
+酷狗搜图	http://api.guyu520.club/kgst.php?msg=搜索内容
+
+360搜图	http://api.guyu520.club/360st.php?msg=搜索内容
+
+百度搜图	http://api.guyu520.club/bdst.php?msg=搜索内容
+
+快递物流	http://api.guyu520.club/kuaidi.php?num=物流单号
+
+漫画搜索	http://api.guyu520.club/mh.php?a=搜索内容&b=多选序号
+
+小说搜索	http://api.guyu520.club/xs.php?a=搜索内容&b=多选序号
+
+图灵聊天	http://api.guyu520.club/lt.php?msg=聊天内容
+
+百度权重	http://api.guyu520.club/quanzhong.php?url=查询域名
+
+YY直播	
+YY脱口秀
+http://api.guyu520.club/YY.php&id=1
+YY王者荣耀
+http://api.guyu520.club/YY.php?id=2
+YY绝地求生
+http://api.guyu520.club/YY.php?id=3
+YY音乐
+http://api.guyu520.club/YY.php?id=4
+YY舞蹈
+http://api.guyu520.club/YY.php?id=5
+YY户外
+http://api.guyu520.club/YY.php?id=6
+YYMC
+http://api.guyu520.club/YY.php?id=7
+YY体育
+http://api.guyu520.club/YY.php?id=8
+
+线报	http://api.guyu520.club/xb.php
+
+历史今天	http://api.guyu520.club/lsjt.php
+
+身份证信息	http://api.guyu520.club/sfz.php?num=身份证号码
+
+随机颜色	http://api.guyu520.club/randcolor.php
+
+QQJSON小屏随机歌曲	
+巅峰榜 · 热歌
+http://api.guyu520.club/qqsj_json.php?a=1&id=1
+巅峰榜 · 流行
+http://api.guyu520.club/qqsj_json.php?a=2&id=1
+巅峰榜 · 新歌
+http://api.guyu520.club/qqsj_json.php?a=3&id=1
+巅峰榜 · 明日
+http://api.guyu520.club/qqsj_json.php?a=4&id=1
+巅峰榜 · 说唱
+http://api.guyu520.club/qqsj_json.php?a=5&id=1
+巅峰榜 · 声音
+http://api.guyu520.club/qqsj_json.php?a=6&id=1
+巅峰榜 · 网络
+http://api.guyu520.club/qqsj_json.php?a=7&id=1
+巅峰榜 · 内地
+http://api.guyu520.club/qqsj_json.php?a=8&id=1
+巅峰榜 · 港台
+http://api.guyu520.club/qqsj_json.php?a=9&id=1
+巅峰榜 · 欧美
+http://api.guyu520.club/qqsj_json.php?a=10&id=1
+巅峰榜 · 韩国
+http://api.guyu520.club/qqsj_json.php?a=11&id=1
+巅峰榜 · 日本
+http://api.guyu520.club/qqsj_json.php?a=12&id=1
+巅峰榜 · 人气
+http://api.guyu520.club/qqsj_json.php?a=13&id=1
+巅峰榜 · 电音
+http://api.guyu520.club/qqsj_json.php?a=14&id=1
+QQSJON大屏随机歌曲	巅峰榜 · 热歌
+http://api.guyu520.club/qqsj_json.php?a=1&id=2
+巅峰榜 · 流行
+http://api.guyu520.club/qqsj_json.php?a=2&id=2
+巅峰榜 · 新歌
+http://api.guyu520.club/qqsj_json.php?a=3&id=2
+巅峰榜 · 明日
+http://api.guyu520.club/qqsj_json.php?a=4&id=2
+巅峰榜 · 说唱
+http://api.guyu520.club/qqsj_json.php?a=5&id=2
+巅峰榜 · 声音
+http://api.guyu520.club/qqsj_json.php?a=6&id=2
+巅峰榜 · 网络
+http://api.guyu520.club/qqsj_json.php?a=7&id=2
+巅峰榜 · 内地
+http://api.guyu520.club/qqsj_json.php?a=8&id=2
+巅峰榜 · 港台
+http://api.guyu520.club/qqsj_json.php?a=9&id=2
+巅峰榜 · 欧美
+http://api.guyu520.club/qqsj_json.php?a=10&id=2
+巅峰榜 · 韩国
+http://api.guyu520.club/qqsj_json.php?a=11&id=2
+巅峰榜 · 日本
+http://api.guyu520.club/qqsj_json.php?a=12&id=2
+巅峰榜 · 人气
+http://api.guyu520.club/qqsj_json.php?a=13&id=2
+巅峰榜 · 电音
+http://api.guyu520.club/qqsj_json.php?a=14&id=2
+QQJSON多屏随机歌曲	巅峰榜 · 热歌
+http://api.guyu520.club/qqsj_json.php?a=1&id=3
+巅峰榜 · 流行
+http://api.guyu520.club/qqsj_json.php?a=2&id=3
+巅峰榜 · 新歌
+http://api.guyu520.club/qqsj_json.php?a=3&id=3
+巅峰榜 · 明日
+http://api.guyu520.club/qqsj_json.php?a=4&id=3
+巅峰榜 · 说唱
+http://api.guyu520.club/qqsj_json.php?a=5&id=3
+巅峰榜 · 声音
+http://api.guyu520.club/qqsj_json.php?a=6&id=3
+巅峰榜 · 网络
+http://api.guyu520.club/qqsj_json.php?a=7&id=3
+巅峰榜 · 内地
+http://api.guyu520.club/qqsj_json.php?a=8&id=3
+巅峰榜 · 港台
+http://api.guyu520.club/qqsj_json.php?a=9&id=3
+巅峰榜 · 欧美
+http://api.guyu520.club/qqsj_json.php?a=10&id=3
+巅峰榜 · 韩国
+http://api.guyu520.club/qqsj_json.php?a=11&id=3
+巅峰榜 · 日本
+http://api.guyu520.club/qqsj_json.php?a=12&id=3
+巅峰榜 · 人气
+http://api.guyu520.club/qqsj_json.php?a=13&id=3
+巅峰榜 · 电音
+http://api.guyu520.club/qqsj_json.php?a=14&id=3
+
+酷六视频	
+
+娱乐视频
+http://api.guyu520.club/k6sp.php?id=娱乐视频
+游戏视频
+http://api.guyu520.club/k6sp.php?id=游戏视频
+音乐视频
+http://api.guyu520.club/k6sp.php?id=音乐视频
+社会视频
+http://api.guyu520.club/k6sp.php?id=社会视频
+文化视频
+http://api.guyu520.club/k6sp.php?id=文化视频
+搞笑视频
+http://api.guyu520.club/k6sp.php?id=搞笑视频
+
+BIUBIU视频	http://api.guyu520.club/biubiu.php
+
+酷狗音乐搜索	http://api.guyu520.club/kgdg.php?a=搜索内容&b=多选序号
+
+QQ音乐搜索	http://api.guyu520.club/qqdg.php?a=搜索内容&b=多选序号
+
+网易音乐搜索	http://api.guyu520.club/wydg.php?a=搜索内容&b=多选序号
+
+----------------------------------------------------------------------------
+
+
+
+——————————————————————————
+
+慕名API:http://xiaoapi.cn
+慕名QQ:3418200038
+
+语音聊天接口1
+请求地址 ：
+http://xiaoapi.cn/api/lttts.php
+参数 ：
+msg （必填）
+id （必填）
+返回数据 ：
+http://xiaoapi.cn/api/yuyin/64152213.mp3
+接口小公告 ：
+返回聊天语音〖mp3〗，id为QQ号
+不限次数。
+示例 ：
+http://xiaoapi.cn/api/lttts.php?id=3330809048&msg=你会什么？
+
+语音聊天接口
+请求地址 ：
+http://xiaoapi.cn/api/ttslt.php
+参数 ：
+msg （必填）
+返回数据 ：
+http://xiaoapi.cn/api/yuyin/64152213.mp3
+接口小公告 ：
+返回聊天语音〖mp3〗。
+对接图灵聊天接口。〖限次数〗
+示例 ：
+http://xiaoapi.cn/api/ttslt.php?msg=你会什么？
+
+短网址
+请求地址 ：
+http://xiaoapi.cn/dwz.php
+参数 ：
+url （必填）
+返回数据 ：
+http://suol.vip/?iJbpV2
+接口小公告 ：
+网址缩短。
+注：生成数据保存一个月。
+示例 ：
+http://xiaoapi.cn/dwz.php?url=http://robotmm.cn
+
+虎牙
+请求地址 ：
+http://xiaoapi.cn/api/huya.php
+参数 ：
+msg （必填）
+n （选择时必填）
+返回数据 ：
+±img=https://huyaimg.msstatic.com/avatar/1016/b9/b6824c9d5593f03f5b5c4f71189023_180_135.jpg?1564815405± 主播：张大仙（直播中） 主播称号：超级明星 主播等级：41 订阅量：9952790 主播分类：王者荣耀 标题：大仙来了 介绍：国服张冰心，花盆男解说，著名视频作者 链接：http://aldirect.hls.huya.com/backsrc/1259515661837-1259515661837-4682562792811659264-2519031447130-10057-A-0-1_1200.m3u8
+接口小公告 ：
+虎牙直播，有n=数字为选，无n则为列表。
+示例 ：
+http://xiaoapi.cn/api/huya.php?msg=张大仙&n=1
+
+QQ音乐
+请求地址 ：
+http://xiaoapi.cn/api/yy.php
+参数 ：
+msg （必填）
+type （必填）
+n （选择时必填）
+y （翻页时必填）
+返回数据 ：
+json:{'app':'com.tencent.music','desc':'音乐','view':'Share','ver':'0.0.0.1','prompt':'[应用]音乐','meta':{'Share':{'musicId':'4971959'}},'config':{'autosize':false,'forward':1}}
+接口小公告 ：
+来源QQ音乐，type为json时将输出json格式，为text时将直接输出播放直链。有n=数字为选歌，无n则为列表。
+有y=数字，可加载下一页，只能是数字且从0开始！
+示例 ：
+http://xiaoapi.cn/api/yy.php?msg=呵呵&n=1
+
+百科
+请求地址 ：
+http://xiaoapi.cn/api/sgbaike.php
+参数 ：
+msg （必填）
+返回数据 ：
+±img=https://pic.baike.soso.com/ugc/baikepic2/28426/cut-20190917111346-205865251_jpg_439_549_36954.jpg/300±机器人（Robot）是自动执行工作的机器装置，包括一切模拟人类行为或思想与模拟其他生物的机械（如机器狗，机器猫等）。狭义上对机器人的定义还有很多分类法及争议，有些计算机程序甚至也被称为机器人。在当代工业中，机器人指能自动运行任务的人造机器设备，用以取代或协助人类工作，一般会是机电设备，由计算机程序或是电... 技术、科技产品、机器 中文名:机器人\n外文名:Robot\n产品类型:机械\n定义:自动执行工作的机器装置\n技术:人工智能技术\n驱动装置:微型计算机 更多：http://baike.sogou.com/v271810.htm
+接口小公告 ：
+查询百科内容。
+示例 ：
+http://xiaoapi.cn/api/sgbaike.php?msg=机器人
+
+快递查询
+请求地址 ：
+http://xiaoapi.cn/api/kd.php
+参数 ：
+msg （必填）
+返回数据 ：
+2019年10月23日 18:10:29\n石家庄市【元氏县】，已送达 已签收\n\n2019年10月23日 14:10:11\n石家庄市【元氏县】，【***/186****7924】正在派件\n\n2019年10月23日 13:10:52\n到石家庄市【元氏县】\n\n2019年10月23日 12:10:23\n石家庄市【石家庄转运中心】，正发往【元氏县】\n\n2019年10月23日 10:10:19\n到石家庄市【石家庄转运中心】\n\n2019年10月21日 22:10:47\n广州市【广州黄埔转运中心】，正发往【石家庄转运中心】\n\n2019年10月21日 22:10:32\n到广州市【广州黄埔转运中心】\n\n2019年10月21日 20:10:30\n到广州市【广州番禺化龙分部集货点】\n\n2019年10月21日 16:10:22\n广州市【广州番禺区五部】，【***/133***0308】已揽收\n\n
+接口小公告 ：
+查询运单号信息。
+示例 ：
+http://xiaoapi.cn/api/kd.php?msg=71494*****9340
+
+哔哩番剧、短视频
+请求地址 ：
+http://xiaoapi.cn/api/bili.php
+参数 ：
+m （必填）
+msg （必填）
+n （选择时必填）
+返回数据 ：
+±img=http://i0.hdslb.com/bfs/bangumi/9fcbfadd83feb3e7b58d3de63cd52f416df9ec15.jpg±番剧：搞笑漫画日和类型：搞笑,完结动画,泡面原作：増田こうすけ\n监督：大地丙太郎\n脚本：増田こうすけ\n演出：そ～とめこういちろう\n作画监督：音地正行、白井伸明、小関雅\n音乐：山本はるきち\n音响监督：田中粕屋、たなかかずや\n动画制作：ARTLAND播放链接：http://bangumi.bilibili.com/anime/1593
+接口小公告 ：
+msg=内容，m=fanju时将返回番剧，m=duanshipin时返回搜索视频，n=数字为选。
+示例 ：
+http://xiaoapi.cn/api/bili.php?msg=搞笑&m=fanju&n=1
+
+文字转语音
+请求地址 ：
+http://xiaoapi.cn/api/tts.php
+参数 ：
+msg （必填）
+返回数据 ：
+http://xiaoapi.cn/api/yuyin/81662890.mp3
+接口小公告 ：
+文字转语音。
+注：生成语音保留60秒，60秒后失效。
+示例 ：
+http://xiaoapi.cn/api/tts.php?msg=李白（701年－762年），字太白，号青莲居士，又号“谪仙人”，是唐代伟大的浪漫主义诗人，被后人誉为“诗仙”，与杜甫并称为“李杜”，为了与另两位诗人李商隐与杜牧即“小李杜”区别，杜甫与李白又合称“大李杜”。据《新唐书》记载，李白为兴圣皇帝（凉武昭王李暠）九世孙，与李唐诸王同宗。其人爽朗大方，爱饮酒作诗，喜交友。
+
+解密二维码
+请求地址 ：
+http://xiaoapi.cn/sb/jm.php
+参数 ：
+url （必填）
+返回数据 ：
+测试二维码内容
+接口小公告 ：
+扫码获取二维码内容。
+示例 ：
+http://xiaoapi.cn/sb/jm.php?url=http://xiaoapi.cn/key/pic/341820.png
+
+获取QQskey
+请求地址 ：
+http://xiaoapi.cn/key/skey.php
+参数 ：
+qq （必填）
+返回数据 ：
+{"uin":"3330809048","skey":"qlj24fgWG","pskey":"59Kq4lcUDegfDH4*KdgIiRYukdUhWDeK*1JkdxURglI_","gtk":"657168829","bkn":"657168829
+接口小公告 ：
+扫码获取skey及pskey、gtk、bkn值。
+示例 ：
+http://xiaoapi.cn/key/skey.php?qq=3330809048
+
+看点段子
+请求地址 ：
+http://xiaoapi.cn/api/qqdz.php
+参数 ：
+无
+返回数据 ：
+搞笑段子：秀恩爱的最新方式，没有一点臂力是做不到的！兄弟们都该锻炼下了！\n[img:url="http://qqpublic.qpic.cn/qq_public/0/0-3024218768-2350D7376B433179963B25D43D9DF9D9/0?fmt=gif\u0026size=2003\u0026h=360\u0026w=292\u0026ppv=1"]\n神评：那待看媳妇轻不轻了\u0014AO
+接口小公告 ：
+随机返回看点精选搞笑段子。
+示例 ：
+http://xiaoapi.cn/api/qqdz.php
+
+歌词
+请求地址 ：
+http://xiaoapi.cn/api/gc.php
+参数 ：
+msg （必填）
+n （选择时必填）
+返回数据 ：
+\n作词：苏霏 \n作曲：苏霏 \nshelly佳：你的每句呵呵 \n……\n倒不回去 \n我也只能选执着 总时长：05分6.15秒
+接口小公告 ：
+来源于酷狗，有n=数字输出整首歌词，无n为列表。
+示例 ：
+http://xiaoapi.cn/api/gc.php?msg=呵呵&n=1
+
+问答
+请求地址 ：
+http://xiaoapi.cn/api/wd.php
+参数 ：
+msg （必填）
+返回数据 ：
+李白（701年－762年），字太白，号青莲居士，又号“谪仙人”，是唐代伟大的浪漫主义诗人，被后人誉为“诗仙”，与杜甫并称为“李杜”，为了与另两位诗人李商隐与杜牧即“小李杜”区别，杜甫与李白又合称“大李杜”。据《新唐书》记载，李白为兴圣皇帝（凉武昭王李暠）九世孙，与李唐诸王同宗。其人爽朗大方，爱饮酒作诗，喜交友。
+接口小公告 ：
+返回有关问题答案。
+示例 ：
+http://xiaoapi.cn/api/wd.php?msg=李白是谁？
+
+QQ空间查询
+请求地址 ：
+http://xiaoapi.cn/api/qqkj.php
+参数 ：
+qq （必填）
+skey （官方提供失效时必填）
+uin （官方提供失效时必填）
+pskey （官方提供失效时必填）
+返回数据 ：
+QQ：3418200038\n昵称：꯭慕꯭名꯭\n头像：http://qlogo4.store.qq.com/qzone/3418200038/3418200038/30\n他的空间信息如下：\n照片：0\n日志：0\n说说：7\n留言：0\n今日访客：1102\n空间总访客：9722
+接口小公告 ：
+查询QQ空间说说数，访客数等。
+示例 ：
+http://xiaoapi.cn/api/qqkj.php?qq=3418200038
+
+QQ业务查询
+请求地址 ：
+http://xiaoapi.cn/api/qqyw.php
+参数 ：
+qq （必填）
+skey （官方提供失效时必填）
+uin （官方提供失效时必填）
+返回数据 ：
+1：业务：超级会员 等级：[img:url='http://imgcache.gtimg.cn/vipstyle/component/img/nameplate/svip/lv/year-svip4-l1-on.png?nosharpp=1']\n 共开通1条业务。
+接口小公告 ：
+查询QQ开通业务。注意，大会员无法查询。
+示例 ：
+http://xiaoapi.cn/api/qqyw.php?qq=3418200038
+
+QQ等级查询
+请求地址 ：
+http://xiaoapi.cn/api/qqdj.php
+参数 ：
+qq （必填）
+skey （官方提供失效时必填）
+uin （官方提供失效时必填）
+返回数据 ：
+QQ等级：23
+接口小公告 ：
+查询QQ等级。
+示例 ：
+http://xiaoapi.cn/api/qqdj.php?qq=3330809048
+
+QQ资料查询
+请求地址 ：
+http://xiaoapi.cn/api/qqzl.php
+参数 ：
+qq （必填）
+skey （官方提供失效时必填）
+uin （官方提供失效时必填）
+返回数据 ：
+昵称：㈱\nQQ：3330809048\n年龄：19\n生日：1999年12月1日\n公司：360\n邮箱：\n故乡：中国-西双版纳\n所在地：中国-云南-西双版纳\n学校：云南大学\n个人说明：希望朋友多多
+接口小公告 ：
+查询QQ详细资料。
+示例 ：
+http://xiaoapi.cn/api/qqzl.php?qq=3330809048
+
+ping
+请求地址 ：
+http://xiaoapi.cn/api/ping1.php
+参数 ：
+msg （必填）
+返回数据 ：
+网址：robotmm.cn ip地址：182.61.182.192 最小延迟： 0.459ms 最大延迟：0.599ms 平均延迟：0.529ms 节点：北京市 驰骏网络科技有限公司 注：本司节点位于香港，ping结果仅供参考！
+接口小公告 ：
+调用本地ping功能，查询网站响应速度。
+示例 ：
+http://xiaoapi.cn/api/ping1.php?msg=robotmm.cn
+
+斗图
+请求地址 ：
+http://xiaoapi.cn/api/dt.php
+参数 ：
+msg （必填）
+返回数据 ：
+http://img.shouji.sogou.com/wapdl/hole/201511/12/expr/2015111215584496798500.png
+接口小公告 ：
+随机返回相关斗图。
+示例 ：
+http://xiaoapi.cn/api/dt.php?msg=啊
+
+皮皮搞笑
+请求地址 ：
+http://xiaoapi.cn/api/pp.php
+参数 ：
+id （必填）
+返回数据 ：
+图片：http://alfile.ippzone.com/img/frame/id/795272255?w=540\u0026delogo=2\n滴滴代喝链接\nhttp://dlvideo.ippzone.com/zyvd/62/07/bd72-c59d-11e9-9115-00163e02c2d6
+接口小公告 ：
+随机返回短视频或者段子。
+示例 ：
+http://xiaoapi.cn/api/pp.php?id=1
+
+段子
+请求地址 ：
+http://xiaoapi.cn/api/duanzi.php
+参数 ：
+无
+返回数据 ：
+上班时，办公桌对面的女同事老用穿丝袜的腿蹭我，我实在受不了，给她买了瓶达克宁。
+接口小公告 ：
+id只能为1或者2，随机返回精选短视频或段子。
+示例 ：
+http://xiaoapi.cn/api/duanzi.php
+
+王者荣耀英雄出装
+请求地址 ：
+http://xiaoapi.cn/api/wzry.php
+参数 ：
+msg （必填）
+返回数据 ：
+英雄：百里守约〖射手〗 技能推荐：主加2技能，有大点大 英雄特点： 出装推荐： 暗影战斧 急速战靴 泣血之刃 破晓 破军 名刀·司命 克制英雄： 宫本武藏 妲己 最佳搭配： 廉颇 牛魔 铭文推荐： 异变 鹰眼 隐匿 物理攻击和物理穿透提升前期输出能力，移动速度保证游走逃脱能力
+接口小公告 ：
+查询英雄出装、铭文配置等。
+示例 ：
+http://xiaoapi.cn/api/wzry.php?msg=百里守约
+
+中央天气
+请求地址 ：
+http://xiaoapi.cn/api/zytq.php
+参数 ：
+msg （必填）
+n （选择时必填）
+返回数据 ：
+威宁［贵州省］\n\n天气：阴 舒适度：55\n时实温度：16.0℃ 体感：14.6℃\n气压：780.0hPa 湿度：79.0%\n风向：东北风 程度：微风\n更新时间：2019-08-29 20:15\n
+接口小公告 ：
+来源于中央天气预报，有n=数字为选，无n则为列表。若只有一条数据将直接返回。
+示例 ：
+http://xiaoapi.cn/api/zytq.php?msg=威宁
+
+网易云音乐
+请求地址 ：
+http://xiaoapi.cn/api/wy.php
+参数 ：
+msg （必填）
+n （选择时必填）
+返回数据 ：
+±img=http://p1.music.126.net/e8fH2UsfeY-DEDpxVWsnGw==/109951163031105466.jpg±歌名：呵呵 歌手：杨卿俪 播放链接：http://music.163.com/song/media/outer/url?id=508917356
+接口小公告 ：
+来源某易音乐，有n=数字为选歌，无n则为列表。
+示例 ：
+http://xiaoapi.cn/api/wy.php?msg=呵呵&n=1
+
+随机精选图
+请求地址 ：
+http://xiaoapi.cn/api/hqmt.php
+参数 ：
+m （选填）
+返回数据 ：
+±img=http://webimg.maibaapp.com/content/img/avatars/20170915/21/09/40210.jpeg±
+接口小公告 ：
+来源于小妖精精选图。后面有m=1为返回图片链接，无m=1，v8/9，qr则返回图片。
+示例 ：
+➊http://xiaoapi.cn/api/tx.php
+➋http://xiaoapi.cn/api/hqmt.php
+
+随机颜色
+请求地址 ：
+http://xiaoapi.cn/api/sjys.php
+参数 ：
+无
+返回数据 ：
+#2ECDEA
+接口小公告 ：
+随机返回十六进制颜色代码。
+示例 ：
+http://xiaoapi.cn/api/sjys.php
+
+QQ空间信息查询
+请求地址 ：
+http://xiaoapi.cn/api/xx.php
+参数 ：
+msg （必填）
+返回数据 ：
+±img=http://qlogo3.store.qq.com/qzone/1828222534/1828222534/100±﻿QQ号1828222534的网名是，他（她）的空间相关统计：留言条，日志篇，说说条，相册图片张。 绿钻等级：6 成长值：13181 是否年费：是
+接口小公告 ：
+查询空间留言、日志、说说、相册数据，也能查询部分QQ绿钻等级、成长值、是否年费。
+示例 ：
+http://xiaoapi.cn/api/xx.php?msg=1828222534
+
+诗词查询
+请求地址 ：
+http://xiaoapi.cn/api/shici.php
+参数 ：
+msg （必填）
+返回数据 ：
+返回诗词内容、详细解析、作者信息、语音阅读等内容
+接口小公告 ：
+可模糊输入，查询诗词。
+示例 ：
+http://xiaoapi.cn/api/shici.php?msg=陈情表
+
+搜图
+请求地址 ：
+http://xiaoapi.cn/api/st.php
+参数 ：
+msg （必填）
+返回数据 ：
+http://p2.so.qhimgs1.com/t01ef6efbfa146e7a0c.jpg
+接口小公告 ：
+搜图资源来源于网络，并非慕名收集，其搜索图片可能受版权保护，您应知晓其连带责任。若搜索不到时自动随机推荐精选图。
+示例 ：
+http://xiaoapi.cn/api/st.php?msg=慕名API
+
+植物识别
+请求地址 ：
+http://xiaoapi.cn/api/zhiwushibie.php
+参数 ：
+msg 植物图片链接（必填）
+返回数据 ：
+接口小公告 ：
+识别植物种类，并百科返回内容。
+示例 ：
+http://xiaoapi.cn/api/zhiwushibie.php?msg=植物图片链接
+
+垃圾分类
+请求地址 ：
+http://xiaoapi.cn/api/laji.php
+参数 ：
+msg 垃圾名称（必填）
+返回数据 ：
+果皮〖湿垃圾〗 即易腐垃圾，易腐的生物质生活废弃物。\r\n主要包括：食材废料、剩菜剩饭、过期食品、瓜皮果核、花卉绿植、中药药渣等。\n\n投放要求：\r\n·纯流质的食物垃圾，如牛奶等，\r\n　应直接倒进下水口\r\n·有包装物的湿垃圾应将包装物\r\n　去除后分类投放，包装物请投放\r\n　到对应的可回收物或干垃圾容器 类似垃圾：果皮、芒果皮、苹果皮
+接口小公告 ：
+示例 ：
+http://xiaoapi.cn/api/laji.php?msg=果皮
+
+成语接龙
+请求地址 ：
+http://xiaoapi.cn/api/cyjl.php
+参数 ：
+msg 开始成语接龙或者我接+成语（必填）
+id 成语接龙用户标识（必填）
+返回数据 ：
+开始咯！本宝宝出题啦！ 成语：趋炎慕势 拼音：qū yán mù shì 解释：趋：奔走，投靠；炎：热。奉承和依附有权有势的人。 请接以〖势〗字的成语。
+接口小公告 ：
+开始时，msg=开始成语接龙+一个关键字，如msg=开始成语接龙慕，id使用中请勿修改，建议使用QQ，如id=%QQ%。接龙格式：为msg=我接慕名而来，id与前者保持一致。
+示例 ：
+http://xiaoapi.cn/api/cyjl.php?msg=开始成语接龙慕&id=3418200038
+
+歌曲(QR语音可发)
+请求地址 ：
+http://xiaoapi.cn/api/cg.php
+参数 ：
+msg 歌曲名称（必填）
+n 歌曲序号（选歌时必填）
+返回数据 ：
+http://fs.ringop.kugou.com/G137/M02/03/01/
+yQ0DAFtm2M2IHv8JAAqdue6gUnoAAAP3QF
+MDDkACp3R165.mp3
+接口小公告 ：
+请勿频繁调用，否则拉黑IP。
+示例 ：
+http://xiaoapi.cn/api/cg.php?msg=呵呵&n=1
+
+百思不得姐段子
+请求地址 ：
+http://xiaoapi.cn/api/bdj.php
+参数 ：
+无
+返回数据 ：
+去吃饭旁边一男和一女相亲，女的打扮的还算时髦，长得也不错，女的直接就问：“有房有车吗？” 男的直接一口气说：“三环内三室两厅，奥迪Q7，存款有7位数，年薪6位数，父母离休高干。”女的媚笑道：“我很满意。” 男：“你满意有什么用，我就是来炫个富。”
+接口小公告 ：
+随机返回精选段子。
+示例 ：
+http://xiaoapi.cn/api/bdj.php
+
+精选短视频
+请求地址 ：
+http://xiaoapi.cn/api/jingxuanshipin.php
+参数 ：
+type （必填）
+返回数据 ：
+±img=http://cdn.video.picasso.dandanjiang.tv/5b2e79f704220839e068d150.jpg?newver=0.315671183456&imageMogr2/thumbnail/!350x540r/gravity/Center/crop/350x540&sign=1f192a6bee00739ede93502acf7ebb2c&t=5d66be88± 类型：向日葵|阳光|树枝|风车|风景 播放链接：
+http://cdn.video.picasso.dandanjiang.tv/5b2e79f704220839e068d150.mp4?newver=0.506085040471&sign=53b4637b01cef4dc498c562852a47cad&t=5d66be88
+接口小公告 ：
+type可为网红、明星、热舞、风景、游戏、动物。
+示例 ：
+http://xiaoapi.cn/api/jingxuanshipin.php?type=风景
+
+美女图
+请求地址 ：
+http://xiaoapi.cn/api/meinvtu.php
+参数 ：
+msg （必填）
+返回数据 ：
+±img=http://img5.adesk.com/5d3fe228e7bce72126747103±类型：古装|清冷|柔美|气质|美女
+接口小公告 ：
+m值为1时只返回链接，m为其他值时返回图片和类型。
+示例 ：
+http://xiaoapi.cn/api/meinvtu.php?m=0
+
+空间访客数量查询
+请求地址 ：
+http://xiaoapi.cn/api/fangke.php
+参数 ：
+msg （必填）
+返回数据 ：
+今日访客：16 空间总访客：6507
+接口小公告 ：
+查询QQ空间访客数量，返回当日访客数及总访客数。
+示例 ：
+http://xiaoapi.cn/api/fangke.php?qq=3418200038
+
+邮件（139版）
+请求地址 ：
+http://xiaoapi.cn/api/fk/yx1.php
+参数 ：
+msg （必填）
+to （必填）
+bt （必填）
+yx （必填）
+mm （必填）
+返回数据 ：
+发送成功！
+接口小公告 ：
+to=收邮件；bt=邮件标题；yx=发邮件的139账号；mm=发邮件账号密码；msg=邮件内容
+注：139邮件只需开启SMTP，设置密码即可(开启SMTP请登录139邮箱，前往账号设置里启用。)【支持内容html】
+示例 ：
+http://xiaoapi.cn/api/fk/yx1.php?mm=***&yx=15761444***@139.com&bt=慕名API&to=3418200038@qq.com&msg=欢迎使用慕名API
+
+香港节点ping
+请求地址 ：
+http://xiaoapi.cn/api/ping1.php
+参数 ：
+msg （必填）
+返回数据 ：
+网址：robotmm.cn ip地址：182.61.182.192 最小延迟： 0.379ms 最大延迟：0.746ms 平均延迟：0.562ms 节点：北京市 驰骏网络科技有限公司 注：本司节点位于香港，ping结果仅供参考！
+接口小公告 ：
+本服务器归属地为香港。
+示例 ：
+http://xiaoapi.cn/api/ping1.php?msg=robotmm.cn
+
+QQ天气
+请求地址 ：
+http://xiaoapi.cn/api/qqtq.php
+参数 ：
+msg （必填）
+返回数据 ：
+城市：毕节 气温：18℃/29℃ 今日天气实况：气温：20℃；风向/风力：西风 1级；湿度：81%；紫外线强度：最弱。空气质量：良。 紫外线指数：最弱，辐射弱，涂擦SPF8-12防晒护肤品。 健臻·血糖指数：不易波动，天气条件不易引起血糖波动。 穿衣指数：热，适合穿T恤、短薄外套等夏季服装。 洗车指数：不宜，有雨，雨水和泥水会弄脏爱车。 空气污染指数：良，气象条件有利于空气污染物扩散。
+接口小公告 ：
+与QQ同步天气，仅支持县级以上城市。
+示例 ：
+http://xiaoapi.cn/api/qqtq.php?msg=毕节
+
+随机谜语
+请求地址 ：
+http://xiaoapi.cn/api/miyu.php
+参数 ：
+无
+返回数据 ：
+谜题：大珠小珠落玉盘，颗颗制成壶中物 谜底：葡萄酒" 类型：其他谜 提示：打一饮品
+接口小公告 ：
+共收集10715条谜语信息，将给您带来不一样的体验。
+示例 ：
+http://xiaoapi.cn/api/miyu.php
+
+酷狗歌词
+请求地址 ：
+http:\/\/xiaoapi.cn/api/kugougc.php
+参数 ：
+msg （必填）
+n （选择时必填）
+d （选择时必填）
+返回数据 ：
+麦小兜 - 9420 作词：可泽 作曲：可泽 编曲：杨栋梁 手牵手一起走在幸福的大街 微风缓缓地吹来你我相依偎 爱的目光如此的热烈 这份爱就像是在燃烧的火堆 炽热的火焰如同盛开的玫瑰 不管白天黑夜继续地沉醉 整个世界弥漫 薄荷般的气味 耳边
+接口小公告 ：
+来源于酷狗，有n=数字，d=1、2、3为歌词，无n为列表。
+示例 ：
+http://xiaoapi.cn/api/kugougc.php?msg=9420&n=1&d=1
+
+天气〖三天版〗
+请求地址 ：
+http://xiaoapi.cn/api/tq.php
+参数 ：
+msg （必填）
+返回数据 ：
+天气：威宁 29日星期四 高温 23℃ 低温 14℃ 无持续风向 阵雨 30日星期五 高温 21℃ 低温 14℃ 无持续风向 阵雨 31日星期六 高温 20℃ 低温 13℃ 无持续风向 阵雨
+接口小公告 ：
+返回三天天气预报。
+示例 ：
+http://xiaoapi.cn/api/tq.php?msg=威宁
+
+聊天
+请求地址 ：
+http://xiaoapi.cn/api/lt.php
+参数 ：
+msg （必填）
+返回数据 ：
+你怎么呵呵，是不开心吗，和我说说吧。
+接口小公告 ：
+示例 ：
+http://xiaoapi.cn/api/lt.php?msg=呵呵
+
+百度天气
+请求地址 ：
+http://xiaoapi.cn/api/baidutq.php
+参数 ：
+msg （必填）
+返回数据 ：
+威宁 周三 08月28日 (实时：16℃) 天气情况：小雨转阴 温度：20 ~ 14℃ 风向：北风3-4级 周四 天气情况：阵雨 温度：21 ~ 14℃ 风向：无持续风向微风 周五 天气情况：阵雨转阴 温度：20 ~ 13℃ 风向：无持续风向微风 周六 天气情况：多云转阴 温度：19 ~ 12℃ 风向：无持续风向微风
+接口小公告 ：
+数据源为百度天气。
+示例 ：
+http://xiaoapi.cn/api/baidutq.php?msg=威宁
+
+农历
+请求地址 ：
+http://xiaoapi.cn/api/nl.php
+参数 ：
+无
+返回数据 ：
+今天是公元2019年08月29日 农历己亥年七月廿九 猪年 节气：处暑后
+接口小公告 ：
+返回当日农历、节气。
+示例 ：
+http://xiaoapi.cn/api/nl.php
+
+有道翻译
+请求地址 ：
+http://xiaoapi.cn/api/fanyi.php
+参数 ：
+msg （必填）
+返回数据 ：
+翻译：欢迎使用 结果：Welcome to use 解释：welcome to use
+接口小公告 ：
+提供汉、英互译。
+示例 ：
+http://xiaoapi.cn/api/fanyi.php?msg=欢迎使用
+
+斗鱼
+请求地址 ：
+http://xiaoapi.cn/api/douyu.php
+参数 ：
+msg （必填）
+n （选择时必填）
+返回数据 ：
+±img=https://rpic.douyucdn.cn/asrpic/190829/100_0052.png/dy1±直播间：斗鱼绝地赛事 介绍：【PCL】维寒迪第二周","noRed":" 【PCL夏季赛】 16:00-22:00 周一艾伦格，周二维寒迪，周四米拉玛，周六/周日决赛 直播链接：https://m.douyu.com/100 176.1万人正在观看
+接口小公告 ：
+搜索斗鱼直播主播房间号，点击链接即可观看。
+示例 ：
+http://xiaoapi.cn/api/douyu.php?msg=PUBG&n=1
+
+应用搜索下载
+请求地址 ：
+http://xiaoapi.cn/api/apk.php
+参数 ：
+msg （必填）
+n （选择时必填）
+返回数据 ：
+±img=http://pp.myapp.com/ma_icon/0/icon_12127266_1565836076/256±名称:王者荣耀 类型：5v5团队公平竞技游戏 已更新至：1.45.1.23 下载次数：1083228533 大小：1709.6M 点击链接：http://imtt.dd.qq.com/16891/apk/C1C93B1605C6610A482DF99C2A79963E.apk?fsname=com.tencent.tmgp.sgame_1.46.1.4_46010401.apk&csr=97c2 下载
+接口小公告 ：
+有n=数字为选择，无n或n为空值为列表，来源于某某宝。
+示例 ：
+http://xiaoapi.cn/api/apk.php?msg=王者荣耀&n=1
+
+免vip看视频
+请求地址 ：
+http://xiaoapi.cn/api/.php
+参数 ：
+msg （必填）
+n （选择时必填）
+返回数据 ：
+名称:哪吒之魔童降世 主演：吕艳婷,囧森瑟夫,瀚墨,陈浩 点击以下链接： 1、https://www.tukutv.com/dongman/113017-1-1.html 2、https://www.tukutv.com/dongman/113017-2-1.html 观看
+接口小公告 ：
+来源于网络，有n=数字为选，无n则为列表。〖可搜索狼片〗
+示例 ：
+http://xiaoapi.cn/api/fl.php?msg=哪吒之魔童降世&n=1
+
+mv
+请求地址 ：
+http://xiaoapi.cn/api/dxmv.php
+参数 ：
+msg （必填）
+n （选择时必填）
+返回数据 ：
+返回xml信息。
+接口小公告 ：
+来源于QQmv，有n=数字为选，无n则为列表。
+示例 ：
+http://xiaoapi.cn/api/dxmv.php?msg=呵呵&n=1
+
+电影
+请求地址 ：
+http://xiaoapi.cn/api/dxdy.php
+参数 ：
+msg （必填）
+n （选择时必填）
+返回数据 ：
+±img=http://puui.qpic.cn/vcover_vt_pic/0/uiq0rxuywu508qr1559138349/0± 导演：周星驰 主演：周星驰 陈国坤 梁小龙 黄圣依 元华 元秋 [电影] |9.0 | 来源：腾讯视频 链接：http://m.v.qq.com/cover/u/uiq0rxuywu508qr.html
+接口小公告 ：
+来源于腾讯视频，有n=数字为选，无n则为列表。
+示例 ：
+http://xiaoapi.cn/api/dxdy.php?msg=功夫&n=1
+
+漫画
+请求地址 ：
+http://xiaoapi.cn/api/dxmh.php
+参数 ：
+msg （必填）
+n （选择时必填）
+返回数据 ：
+斗破苍穹 收藏：3976048 人气：143.9亿 评分：8.8 评分人数：人气：143.9亿 月票： 作者：知音漫客 图：任翔 更新到415话 2019-08-25 更新 类型：热血 魔幻 动作 介绍：【每周六周日12点更新】正所谓三十年河东三十年河西，天才少年因忽然失去了天生的灵力，被所有人嘲笑排挤，为了一雪前耻他亲手毁掉婚约，一心进修、打怪、升级！重登人生巅峰的他让人们知道莫欺少年穷真的很重要！ 链接：http://m.ac.qq.com/chapter/index/id/531040/seqno/1
+接口小公告 ：
+来源于某讯漫画，有n=数字为选，无n则为列表。
+示例 ：
+http://xiaoapi.cn/api/dxmh.php?msg=斗破苍穹&n=1
+
+小说
+请求地址 ：
+http://xiaoapi.cn/api/dxxs.php
+参数 ：
+msg （必填）
+n （选择时必填）
+返回数据 ：
+[img:url="http:\/\/wfqqreader-1252317822.image.myqcloud.com\/cover\/914\/468914\/b_468914.jpg"]\n小说：斗破苍穹\n作者：天蚕土豆\n类型：玄幻\n评分：4.69\n月票：94998\n推荐票数：183万+\n打赏人数：10844\n字数：5288359\n最后更新至：1667 《斗破苍穹：斗帝之路》手游·角色传记（下） 2018-09-19 09:59:53\n介绍：这里是属于斗气的世界，没有花俏艳丽的魔法，有的，仅仅是繁衍到巅峰的斗气！\r\n新书等级制度：斗者，斗师，大斗师，斗灵，斗王，斗皇，斗宗，斗尊，斗圣，斗帝。\r\n……\r\n吴磊、林允主演的同名电视剧9月3日起周一到周三每晚22：00登陆湖南卫视，腾讯视频全网独播。\n点此链接:http://ubook.qq.com/8/read.html?bid=468914&cid=1&b_f=&searchClick=%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9 进入阅读
+接口小公告 ：
+来源于腾讯小说，有n=数字为选，无n则为列表。
+示例 ：
+http://xiaoapi.cn/api/dxxs.php?msg=斗破苍穹&n=1【等待修复】
+
+商品
+请求地址 ：
+http://xiaoapi.cn/api/dxsp.php
+参数 ：
+msg （必填）
+n （选择时必填）
+返回数据 ：
+±img=http://img.alicdn.com/bao/uploaded/i4/2133951112/O1CN01x3nURF1K5KykwIioT_!!0-item_pic.jpg±商品：魅族X8 原封正品当天发【送手环+套餐0元送+799元20重壕礼】Meizu/骁龙710x8魅蓝手机官网旗舰note8 学生 价格：848.0 元起 来源：魅族晓亚专卖店 购买链接：https://item.taobao.com/item.htm?id=580624571223
+接口小公告 ：
+来源于淘宝，有n=数字为选，无n则为列表。
+示例 ：
+http://xiaoapi.cn/api/dxsp.php?msg=魅族手机&n=1
+
+哔哩哔哩
+请求地址 ：
+http://xiaoapi.cn/api/bilibili.php
+参数 ：
+msg （必填）
+n （选择时必填）
+返回数据 ：
+±img=https://i0.hdslb.com/bfs/archive/bdede4df536535dcc510b6c061becf83c96ea51c.jpg± up主:wililuhan 介绍:素材：少年歌行 bgm：青媚狐 时长:1:19 观看地址:https://m.bilibili.com/video/av42287185.html
+接口小公告 ：
+来源于网络，有n=数字为选，无n则为列表。
+示例 ：
+http://xiaoapi.cn/api/bilibili.php?msg=少年歌行&n=1
+
+=====================================
+
+网络搜索API接口
+
+网易云点歌
+http://t-api.xyz/music/api.php
+
+随机图片
+https://t-api.xyz/sjbz/api.php
+
+聊天内容漫画接口http://qs.cycwy.cn/api/qt/mh.php?msg=漫画名称
+
+搜图接口http://qs.cycwy.cn/api/qt/st.php?msg=图片类型
+
+淘宝商品接口http://qs.cycwy.cn/api/qt/tbsp.php?msg=商品名称
+
+天气接口http://qs.cycwy.cn/api/qt/tq.php?msg=地址名称
+
+笑话接口http://qs.cycwy.cn/api/qt/xh.php
+
+小说接口http://qs.cycwy.cn/api/qt/xs.php?msg=书名
+
+随机图黄图接口http://qs.cycwy.cn/api/sjt/dmht/sjht.php
+
+名片赞接口:http://qs.cycwy.cn/mpz/mpz.php?url=代刷网地址&tid=代刷网商品ID&mm=3347147325&qq=提交QQ号
+
+随机谚语:http://qs.cycwy.cn/api/sj/1/1.php
+
+随机歇后语:http://qs.cycwy.cn/api/sj/2/2.php
+
+随机淘宝商品:http://qs.cycwy.cn/api/sj/3/3.php
+
+随机音乐:http://qs.cycwy.cn/api/qt/sjyy.php
+
+百科接口:http://qs.cycwy.cn/api/qt/bk.php?msg=搜索内容
+
+电影接口http://qs.cycwy.cn/api/qt/dy.php?msg=电影名称
+
+翻译接口http://qs.cycwy.cn/api/qt/fy.php?msg=翻译内容
+
+酷狗音乐接口http://qs.cycwy.cn/api/qt/kgyy.php?msg=歌曲名称
+
+聊天接口http://qs.cycwy.cn/api/qt/lt.php
+
+动漫图片随机
+http://abdd.818bk.pw./tp/%随机数1-95%.jpg
+
+动漫图片随机2
+http://xnapi.mumaa.xyz/upload/%随机数1-181%.jpg
+
+福利视频
+http://s.kkr5.com/dd.html?q=fl
+
+mv视频接口
+$访问 http://joyoba.com/app/yinyue.php?sq=1212&key=3&msg=%参数1%$
+
+美女视频
+http://img1.mm131.com/pic/%随机数2200-2700%/%随机数1-20%.jpg
+
+点歌接口
+点歌 .*$访问 http://wyouji.top/API/c.php?msg=%参数1%&a=5$
+
+生成马路图片
+生成马路 .* .*
+%昵称%📝生成马路成功±img=http://www.51bbw.cn/pic/24/love.php?One=%参数1%&two=%参数2%±
+
+图片接口
+http://tyxq.tk/dmtp/%随机数1-46%.jpg
+
+百科接口
+$访问 http://api.douqq.com/?key=YUNNZD1rM1p2OVdYaz1yMHF3M3VqT1pjZUFRQUFBPT0&msg=百科%参数1%$
+
+动漫福利接口
+http://s.kkr5.com/dd.html?q=dm
+
+快递查询：
+https://api.apiopen.top/EmailSearch?number=1012002
+
+随机单句诗词推荐：
+https://api.apiopen.top/singlePoetry
+
+随机一首诗词推荐：
+https://api.apiopen.top/recommendPoetry
+
+搜索古诗词：
+https://api.apiopen.top/searchPoetry?name=古风二首 二
+
+搜索古诗词作者：
+https://api.apiopen.top/searchAuthors?name=李白
+
+模糊搜索古诗词（可搜索诗词名、诗词内容、诗词作者）：
+https://api.apiopen.top/likePoetry?name=李白
+
+获取宋朝古诗词：
+https://api.apiopen.top/getSongPoetry?page=1&count=20
+
+获取唐朝古诗词：
+https://api.apiopen.top/getTangPoetry?page=1&count=20
+
+音乐搜索接口：
+https://api.apiopen.top/searchMusic
+
+音乐电台接口：
+https://api.apiopen.top/musicBroadcasting
+
+音乐电台详情接口：
+https://api.apiopen.top/musicBroadcastingDetails?channelname=public_tuijian_spring
+
+音乐详情接口：
+https://api.apiopen.top/musicDetails
+
+音乐排行榜接口：
+https://api.apiopen.top/musicRankings
+
+音乐排行榜详情接口：
+https://api.apiopen.top/musicRankingsDetails?type=1
+
+每日视频推荐接口：
+https://api.apiopen.top/todayVideo
+
+视频大纲获取接口：
+https://api.apiopen.top/videoHomeTab
+
+视频分类推荐接口：
+https://api.apiopen.top/videoCategory
+
+视频分类推荐接口：
+https://api.apiopen.top/videoCategoryDetails?id=14
+
+根据ID推荐接口：
+https://api.apiopen.top/videoRecommend?id=127398
+
+新闻接口：
+https://www.apiopen.top/journalismApi
+
+随机推荐热门段子（包含文字、图片、GIF、视频）：
+https://www.apiopen.top/satinApi?type=1&page=1
+
+随机推荐热门段子【神评版本】（包含文字、图片、GIF、视频）：
+https://www.apiopen.top/satinGodApi?type=1&page=1
+
+随机推荐热门段子【神评版本】评论列表：
+https://www.apiopen.top/satinCommentApi?id=27610708&page=1
+
+热门小说推荐列表
+https://www.apiopen.top/novelApi
+
+小说搜索接口
+https://www.apiopen.top/novelSearchApi?name=盗墓笔记
+
+小说详情接口
+https://www.apiopen.top/novelInfoApi?name=盗墓笔记
+
+天气获取接口
+https://www.apiopen.top/weatherApi?city=成都
+
+美图获取接口
+https://www.apiopen.top/meituApi?page=1
+
+个性网名获取接口
+https://www.apiopen.top/femaleNameApi?page=1
+
+创建应用接口
+https://www.apiopen.top/createUserKey?appId=com.chat.peakchao&passwd=123456
+
+增加统计信息接口
+https://www.apiopen.top/addStatistics?appKey=00d91e8e0cca2b76f515926a36db68f5&type=点击统计&typeId=1&count=2
+
+查询统计信息接口
+https://www.apiopen.top/findStatistics?appKey=00d91e8e0cca2b76f515926a36db68f5
+
+用户注册接口
+https://www.apiopen.top/createUser?key=00d91e8e0cca2b76f515926a36db68f5&phone=13594347817&passwd=123654
+
+用户登陆接口
+https://www.apiopen.top/login?key=00d91e8e0cca2b76f515926a36db68f5&phone=13594347817&passwd=123456
+
+2018-09-24 更新：
+####古诗词相关接口
+
+随机单句诗词推荐：
+https://api.apiopen.top/singlePoetry
+
+随机一首诗词推荐：
+https://api.apiopen.top/recommendPoetry
+
+搜索古诗词：
+https://api.apiopen.top/searchPoetry?name=古风二首 二
+
+搜索古诗词作者：
+https://api.apiopen.top/searchAuthors?name=李白
+
+模糊搜索古诗词（可搜索诗词名、诗词内容、诗词作者）：
+https://api.apiopen.top/likePoetry?name=李白
+
+获取宋朝古诗词：
+https://api.apiopen.top/getSongPoetry?page=1&count=20
+
+获取唐朝古诗词：
+https://api.apiopen.top/getTangPoetry?page=1&count=20
+
+2018-09-23 更新：
+视频/音乐相关接口
+
+音乐搜索接口：
+https://api.apiopen.top/searchMusic
+
+音乐电台接口：
+https://api.apiopen.top/musicBroadcasting
+
+音乐电台详情接口：
+https://api.apiopen.top/musicBroadcastingDetails?channelname=public_tuijian_spring
+
+音乐详情接口：
+https://api.apiopen.top/musicDetails
+
+音乐排行榜接口：
+https://api.apiopen.top/musicRankings
+
+音乐排行榜详情接口：
+https://api.apiopen.top/musicRankingsDetails?type=1
+
+每日视频推荐接口：
+https://api.apiopen.top/todayVideo
+
+视频大纲获取接口：
+https://api.apiopen.top/videoHomeTab
+
+视频分类推荐接口：
+https://api.apiopen.top/videoCategory
+
+视频分类推荐接口：
+https://api.apiopen.top/videoCategoryDetails?id=14
+
+根据ID推荐接口：
+https://api.apiopen.top/videoRecommend?id=127398
+
+2018-07-13 更新：
+
+新闻接口
+https://www.apiopen.top/journali
+
+随机推荐段子（包含文字、图片、GIF、视频）：
+https://www.apiopen.top/satinApi?type=1&page=1
