@@ -1,0 +1,89 @@
+// GG Lua Pro Syntax
+// Created by Lua39683512
+// Version 1.1
+//https://github.com/Lua39683512/GG-Lua-Pro-Syntax
+{
+    name:["GG Lua Pro",".lua"]
+
+    colors:[
+        //===========================
+        //Lua
+        //===========================
+        "keyword",     #AF00DB,#FF79C6//VS Code 蓝
+        "type",         #0030B3,#E5C07B
+        "constant",     #D19A66,#D19A66
+        "string",        #067D17,#067D17//绿色
+        "number",      #D19A66,#D19A66//橙红
+        "comment",    #5C6370,#5C6370//灰蓝
+        "library",       #FFCB6B,#FFCB6B//琥珀黄,Lua标准库
+        //===========================
+        //function
+        //===========================
+        "funDefName",#61AFEF,#61AFEF//亮蓝,函数定义
+        "funName",   #2EFFA4,#2EFFA4//绿色(这个我很喜欢)
+        //===========================
+        //Other
+        //===========================
+        "todo",        #FF5370,#FF5370
+        "operator",    #ABB2BF,#ABB2BF
+        //===========================
+        //GG
+        //===========================
+        "ggApi",        #FFFF55,#FFFF55//亮金
+        "ggType",     #E5C07B,#E5C07B//金黄
+        "ggRegion",   #D19A66,#D19A66//橙色
+        "ggSign",      #C678DD,#C678DD//紫色
+        "ggProt",      #E06C75,#E06C75//红色
+        "ggPointer",   #BB9AF7,#BB9AF7//淡紫
+        "ggSearch",   #FF9E64,#FF9E64
+        "meta",       #7DCFFF,#7DCFFF
+        "variable",    #AAFFFF,#AAFFFF
+        "property",    #FFCB6B,#FFCB6B
+    ]
+
+    comment:{startsWith:"--[[",endsWith:"]]"}
+    comment:{startsWith:"--"}
+
+    contains:[
+        //函数定义
+        {match:/(?m)\b(function)\s+([A-Za-z_]\w*)/,1:"keyword",2:"funDefName"}
+        {match:/\b([A-Za-z_]\w*)(?=\()/,1:"funName"}
+        //===========================
+        //Lua基础
+        //===========================
+        {builtin:#C_QUOTED_STRING#}
+        {number:"10|16|F|E|P"}
+        //===========================
+        //Lua关键字
+        //===========================
+        {match:keywordsToRegex("local global boolean number userdata"),0:"type"}
+        {match:keywordsToRegex("true false nil"),0:"constant"}
+        {match:keywordsToRegex("return then while and break do else elseif end for function if in not or repeat until thread table"),0:"keyword"}
+        //GG
+        //===========================
+        // GG API
+        {match:/\bgg\.(?!TYPE_|REGION_|SIGN_|PROT_|POINTER_)[A-Za-z_]\w*\b/,0:"ggApi"}
+        
+        {match:/\bgg\.TYPE_[A-Z0-9_]+\b/,0:"ggType"}
+        {match:/\bgg\.REGION_[A-Z0-9_]+\b/,0:"ggRegion"}
+        {match:/\bgg\.SIGN_[A-Z0-9_]+\b/,0:"ggSign"}
+        {match:/\bgg\.PROT_[A-Z0-9_]+\b/,0:"ggProt"}
+        {match:/\bgg\.POINTER_[A-Z0-9_]+\b/,0:"ggPointer"}
+        {match:/(?m)\bfunction\s+([A-Za-z_]\w*)/,1:"funDefName"}
+        {match:/["'][0-9\.\-]+(;[0-9\.\-]+)*(::[0-9]+)?["']/,0:"ggSearch"}
+        {match:/--\s*(作者|版本|QQ|群|更新).*/,0:"meta"}
+        {match:/\b[A-Za-z_]\w*(?=\s*=)/,0:"variable"}
+        {match:"gg.TYPE_FLOAT",0:"ggType"}
+        {match:/\b(address|flags|value|freeze|freezeType|name)\b/,0:"property"}
+        //绘制
+        {match:/\b(paint|canvas|view)\b(?=:)/,0:"ggApi"}
+        {match:/\b(disDrawAcc|newPaint|newView|getWH)\b/,0:"ggApi"}
+        {match:/:[ \t]*([A-Za-z_]\w*)(?=\()/,1:"ggApi"}
+        //===========================
+        //function
+        //===========================
+        {match:/,\s*([A-Za-z_]\w*)\s*}/,1:"funDefName"}
+        // Main0()
+        {match:/(?<==)\s*([A-Za-z_]\w*)/,1:"funDefName"}
+    ]
+}
